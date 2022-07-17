@@ -1,0 +1,18 @@
+[0717/143140.108:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0717/143609.740:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0717/143609.785:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0717/143609.831:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0717/143609.877:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0717/143609.929:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0717/143609.970:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0717/143610.017:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0717/143610.063:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0717/143610.110:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0717/143610.156:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0717/143610.203:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0717/143610.249:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0717/143610.296:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0717/143610.346:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0717/143610.389:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0717/143610.433:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 1 time(s)
+[0717/143610.436:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.

@@ -1,0 +1,10 @@
+[0717/143739.699:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0717/143739.700:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0717/143838.593:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 1 time(s)
+[0717/143842.516:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 2 time(s)
+[0717/143842.557:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 3 time(s)
+[0717/143842.604:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 4 time(s)
+[0717/143842.650:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 5 time(s)
+[0717/143842.696:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 6 time(s)
+[0717/143843.526:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0717/143843.571:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
