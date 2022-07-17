@@ -1,0 +1,1643 @@
+﻿Log file open, 07/17/22 14:00:38
+LogWindows: Started CrashReportClient (pid=11576)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/global.utoc
+LogIoDispatcher: Display: Toc signature hash: 86DD4C910EDB84D1C1AC97BDC8DB5C0C042B7747
+LogIoDispatcher: Display: Mounting container '../../../FortniteGame/Content/Paks/global.utoc' in location slot 0
+LogPakFile: Display: Initialized I/O dispatcher file backend. Mounted the global container: ../../../FortniteGame/Content/Paks/global.utoc
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakChunkEarly-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakChunkEarly-WindowsClient.pak.
+LogPakFile: PakFile PrimaryIndexSize=64752
+LogPakFile: PakFile PathHashIndexSize=172400
+LogPakFile: PakFile FullDirectoryIndexSize=138560
+LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakChunkEarly-WindowsClient.utoc
+LogIoDispatcher: Display: Toc signature hash: 52F7C5AD4DE342970AF8D404852AD95D68D5CF24
+LogIoDispatcher: Display: Mounting container '../../../FortniteGame/Content/Paks/pakChunkEarly-WindowsClient.utoc' in location slot 0
+LogPakFile: Display: Mounted IoStore container "../../../FortniteGame/Content/Paks/pakChunkEarly-WindowsClient.utoc"
+LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '../../../FortniteGame/Content/Paks/pakChunkEarly-WindowsClient.pak' (chunk index -1, root '../../../') mounted
+LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:../../../ File:../../../FortniteGame/Content/Paks/pakChunkEarly-WindowsClient.pak)
+LogPakFile: OnPakFileMounted2Time == 0.000125
+LogPlatformFile: Not using cached read wrapper
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Shipping"
+LogCsvProfiler: Display: Metadata set : buildversion="++Fortnite+Release-21.20-CL-21035704"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.1-21035704+++Fortnite+Release-21.20"
+LogCsvProfiler: Display: Metadata set : commandline=""-AUTH_LOGIN=unused -AUTH_PASSWORD=8dfaebd03fba489e88e927ee9f7c1a15 -AUTH_TYPE=exchangecode -epicapp=Fortnite -epicenv=Prod -EpicPortal -nobe -fromfl=eac -caldera=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50X2lkIjoiZDMwZjA0OWU0M2ZlNGMwZmI0MTllNmQ5ODRmODVmNWIiLCJnZW5lcmF0ZWQiOjE2NTgwMzA0MjUsImNhbGRlcmFHdWlkIjoiNDNiY2VmYTktYzdhMi00NmQ0LTlhMGUtZWI0Njg5NmMwYWI0IiwiYWNQcm92aWRlciI6IkVhc3lBbnRpQ2hlYXQiLCJub3RlcyI6IiIsImZhbGxiYWNrIjpmYWxzZX0.E-lQYxuqEK6rT4-8Oe7eb7-PB6R3mq847QJtjLFJPX2sgSApnu38wS4oVnlPOAU9zdzY_rRwai1C7FOnkbXC1g""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (Release 2009) "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 7 5800X 8-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="1"
+LogCsvProfiler: Display: Metadata set : loginid="39e9fb544a59853b9228d9ab1f84fba8"
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-094B91534CB6926461ADE99E52AC406A
+         Session CrashGUID >====================================================
+LogPluginManager: Mounting plugin OnlineSubsystemPS4Server
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin ControlRig
+LogPluginManager: Mounting plugin ControlRigSpline
+LogPluginManager: Mounting plugin GameplayInsights
+LogPluginManager: Mounting plugin IKRig
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AudioGameplay
+LogPluginManager: Mounting plugin AudioGameplayVolume
+LogPluginManager: Mounting plugin Bridge
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin ConcertMain
+LogPluginManager: Mounting plugin ConcertSyncClient
+LogPluginManager: Mounting plugin ConcertSyncCore
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin TraceDataFilters
+LogPluginManager: Mounting plugin TraceSourceFilters
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AssetReferenceRestrictions
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin ContentBrowserAliasDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SequencerAnimTools
+LogPluginManager: Mounting plugin AbilitySystemGameFeatureActions
+LogPluginManager: Mounting plugin CurveExpression
+LogPluginManager: Mounting plugin MotionWarping
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CommonConversation
+LogPluginManager: Mounting plugin CommonUI
+LogPluginManager: Mounting plugin ControlFlows
+LogPluginManager: Mounting plugin DefaultInstallBundleManager
+LogPluginManager: Mounting plugin FullBodyIK
+LogPluginManager: Mounting plugin GameFeatures
+LogPluginManager: Mounting plugin GameplayBehaviors
+LogPluginManager: Mounting plugin Gauntlet
+LogPluginManager: Mounting plugin GizmoEdMode
+LogPluginManager: Mounting plugin ImagePlate
+LogPluginManager: Mounting plugin Landmass
+LogPluginManager: Mounting plugin ModularGameplay
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin StructUtils
+LogPluginManager: Mounting plugin VirtualHeightfieldMesh
+LogPluginManager: Mounting plugin Volumetrics
+LogPluginManager: Mounting plugin Water
+LogPluginManager: Mounting plugin CascadeToNiagaraConverter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin NiagaraFluids
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ElectraCDM
+LogPluginManager: Mounting plugin ElectraPlayer
+LogPluginManager: Mounting plugin ElectraSubtitles
+LogPluginManager: Mounting plugin ElectraUtil
+LogPluginManager: Mounting plugin MediaMovieStreamer
+LogPluginManager: Mounting plugin MfMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin SequencerScripting
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin EOSShared
+LogPluginManager: Mounting plugin OnlineFramework
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemEOS
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemTwitch
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin EOSVoiceChat
+LogPluginManager: Mounting plugin WebAuth
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AnimationBudgetAllocator
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin DataRegistry
+LogPluginManager: Mounting plugin GameplayAbilities
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin MassEntity
+LogPluginManager: Mounting plugin MIDIDevice
+LogPluginManager: Mounting plugin NetworkPrediction
+LogPluginManager: Mounting plugin NetworkPredictionInsights
+LogPluginManager: Mounting plugin Reflex
+LogPluginManager: Mounting plugin AESGCMHandlerComponent
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ReplicationGraph
+LogPluginManager: Mounting plugin ResonanceAudio
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SkeletalMerging
+LogPluginManager: Mounting plugin SmartObjects
+LogPluginManager: Mounting plugin SoundCueTemplates
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin StateTree
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin TimeSynth
+LogPluginManager: Mounting plugin WebBrowserNativeProxy
+LogPluginManager: Mounting plugin WinDualShock
+LogPluginManager: Mounting plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting plugin FunctionalTestingEditor
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin AmbientAudio
+LogPluginManager: Mounting plugin AudioShapes
+LogPluginManager: Mounting plugin BlueprintContext
+LogPluginManager: Mounting plugin BPEditorExtension
+LogPluginManager: Mounting plugin CommonUILegacy
+LogPluginManager: Mounting plugin DXTCompressor
+LogPluginManager: Mounting plugin EntityActor
+LogPluginManager: Mounting plugin EntityCore
+LogPluginManager: Mounting plugin EpicCMS
+LogPluginManager: Mounting plugin EpicCMSUIFramework
+LogPluginManager: Mounting plugin GameplayMessages
+LogPluginManager: Mounting plugin GameplayStreaming
+LogPluginManager: Mounting plugin F5Player
+LogPluginManager: Mounting plugin Mutable
+LogPluginManager: Mounting plugin EOSReservedHooks
+LogPluginManager: Found config from plugin[EOSReservedHooks] Engine
+LogPluginManager: Mounting plugin MatchmakingService
+LogPluginManager: Mounting plugin OnlineSubsystemMcp
+LogPluginManager: Mounting plugin OnlineTracing
+LogPluginManager: Mounting plugin PurchaseFlow
+LogPluginManager: Mounting plugin OnlineGameplayFramework
+LogPluginManager: Mounting plugin Procedural
+LogPluginManager: Mounting plugin Solaris
+LogPluginManager: Mounting plugin SoundLibrary
+LogPluginManager: Mounting plugin SpeechGraphics
+LogPluginManager: Mounting plugin ACLPlugin
+LogPluginManager: Mounting plugin DLSS
+LogPluginManager: Mounting plugin SVGF
+LogPluginManager: Mounting plugin ValkyrieEngine
+LogPluginManager: Mounting plugin EpicGamesEngine
+LogPluginManager: Mounting plugin EpicGamesTemporary
+LogPluginManager: Mounting plugin UnrealEngineExperimental
+LogPluginManager: Mounting plugin Verse
+LogPluginManager: Mounting plugin VerseEngine
+LogPluginManager: Mounting plugin VerseExperimental
+LogPluginManager: Mounting plugin VerseGameplay
+LogPluginManager: Mounting plugin VerseGameplayDebug
+LogPluginManager: Mounting plugin VerseGameplayTags
+LogPluginManager: Mounting plugin VerseMovement
+LogPluginManager: Mounting plugin VerseMovementExtras
+LogPluginManager: Mounting plugin VersePrototypeGameplay
+LogPluginManager: Mounting plugin VerseRestricted
+LogPluginManager: Mounting plugin VerseSimulation
+LogPluginManager: Mounting plugin VerseSimulationMetadata
+LogPluginManager: Mounting plugin VGameplayRst
+LogPluginManager: Mounting plugin VerseInterface
+LogPluginManager: Mounting plugin Curie
+LogPluginManager: Mounting plugin DiscordRPC
+LogPluginManager: Mounting plugin DSSNetworkReplayStreamer
+LogPluginManager: Mounting plugin DynamicXp
+LogPluginManager: Mounting plugin EntityFortnite
+LogPluginManager: Mounting plugin EOSGameClips
+LogPluginManager: Mounting plugin EOSGameStreaming
+LogPluginManager: Mounting plugin EOSMediaPlayer
+LogPluginManager: Mounting plugin EOSRTCVideo
+LogPluginManager: Mounting plugin EOSVoiceChatFN
+LogPluginManager: Mounting plugin EpicArtPipeline
+LogPluginManager: Mounting plugin EpicGameplayStats
+LogPluginManager: Mounting plugin EsportsCamera
+LogPluginManager: Mounting plugin FacialAnimSystem
+LogPluginManager: Mounting plugin DataDrivenGameplayEventRouter
+LogPluginManager: Mounting plugin DeltaFileSystem
+LogPluginManager: Mounting plugin DynamicUI
+LogPluginManager: Mounting plugin ForwardingChannels
+LogPluginManager: Mounting plugin GameplayEventRouter
+LogPluginManager: Mounting plugin GameplayStateMachine
+LogPluginManager: Mounting plugin TargetingSystem
+LogPluginManager: Mounting plugin LiveEditObject
+LogPluginManager: Mounting plugin PlayspaceSystem
+LogPluginManager: Mounting plugin VerseBasicGameplay
+LogPluginManager: Mounting plugin VersePlayspace
+LogPluginManager: Mounting plugin VotingFramework
+LogPluginManager: Mounting plugin FortSoundCueTemplates
+LogPluginManager: Mounting plugin FortUILibrary
+LogPluginManager: Mounting plugin FortWater
+LogPluginManager: Mounting plugin GameplayStreamingFN
+LogPluginManager: Mounting plugin LatencyUI
+LogPluginManager: Mounting plugin LauncherSocial
+LogPluginManager: Mounting plugin LevelPartition
+LogPluginManager: Mounting plugin LogitechLED
+LogPluginManager: Mounting plugin MeshNetwork
+LogPluginManager: Mounting plugin Neowiz
+LogPluginManager: Mounting plugin NetUI
+LogPluginManager: Mounting plugin NiagaraFN
+LogPluginManager: Mounting plugin NiagaraStaging
+LogPluginManager: Mounting plugin NVIDIAGfeSDK
+LogPluginManager: Mounting plugin Oodle
+LogPluginManager: Mounting plugin RazerChroma
+LogPluginManager: Mounting plugin ResultType
+LogPluginManager: Mounting plugin RtcpToken
+LogPluginManager: Mounting plugin RudderControl
+LogPluginManager: Mounting plugin FortInstallBundleManager
+LogPluginManager: Found config from plugin[FortInstallBundleManager] Engine
+LogPluginManager: Mounting plugin FortniteEarlyStartupPatcher
+LogPluginManager: Found config from plugin[FortniteEarlyStartupPatcher] Game
+LogPluginManager: Mounting plugin SocialUMG
+LogPluginManager: Mounting plugin SubtitlesWidgets
+LogPluginManager: Mounting plugin SubtitlesWidgetsEditor
+LogPluginManager: Mounting plugin CreativeTests
+LogPluginManager: Mounting plugin UAC
+LogPluginManager: Mounting plugin UEKitt
+LogPluginManager: Mounting plugin VerseDevices
+LogPluginManager: Mounting plugin VerseFortnite
+LogPluginManager: Found config from plugin[VerseFortnite] Game
+LogPluginManager: Mounting plugin VerseFortniteGameScript
+LogPluginManager: Mounting plugin VoiceChatManager
+LogHAL: Log category LogBeacon verbosity has been raised to Verbose.
+LogHAL: Log category LogQos verbosity has been raised to Verbose.
+LogHAL: Log category LogOnlineCloud verbosity has been raised to Verbose.
+LogHAL: Log category LogOnlineGame verbosity has been raised to Verbose.
+LogHAL: Log category LogParty verbosity has been raised to Verbose.
+LogHAL: Log category LogMatchmakingServiceClient verbosity has been raised to Verbose.
+LogHAL: Log category LogMatchmakingServiceDedicatedServer verbosity has been raised to Verbose.
+LogHAL: Log category LogFortVolume verbosity has been raised to Verbose.
+LogHAL: Log category LogContentBeacon verbosity has been raised to Verbose.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: MCP: Mcp Startup!
+LogOnlineVoice: OSS: Voice interface disabled by config [OnlineSubsystem].bHasVoiceEnabled
+LogOnline: OSS: Created online subsystem instance for: MCP
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [MCP]
+LogOnlineGame: Using EpicApp backend 'Fortnite' with host 'fortnite-public-service-prod11.ol.epicgames.com' based on environment 'Prod' and override 'Fortnite'
+LogOnline: MCP: Mcp API disabled.
+LogOnline: OSS: Unable to create OnlineSubsystem module MCP
+LogFortniteVersion: Display: FortReleaseVersion is now 21.20
+LogCsvProfiler: Display: Metadata set : fortreleaseversion="21.20"
+LogDLSSNGXVulkanRHIPreInit: FNGXVulkanRHIPreInitModule::StartupModule Enter
+LogD3D12RHI: Aftermath initialized
+LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3070 Ti (Max supported Feature Level 12_1, shader model 6.6)
+LogD3D12RHI: Adapter has 8041MB of dedicated video memory, 0MB of dedicated system memory, and 16335MB of shared system memory, 2 output[s]
+LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16335MB of shared system memory, 0 output[s]
+LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+LogDLSSNGXVulkanRHIPreInit: GetSelectedDynamicRHIModuleName = D3D12RHI
+LogDLSSNGXVulkanRHIPreInit: VulkanRHI is not the active DynamicRHI; skipping of pregistering the required NGX DLSS Vulkan device and instance extensions via the VulkanRHIBridge
+LogDLSSNGXVulkanRHIPreInit: FNGXVulkanRHIPreInitModule::StartupModule Leave
+LogSVGF: FSVGFModule::StartupModule
+LogInit: Build: ++Fortnite+Release-21.20-CL-21035704
+LogInit: Engine Version: 5.0.1-21035704+++Fortnite+Release-21.20
+LogInit: Compatible Engine Version: 5.0.0-21014428+++Fortnite+Release-21.20
+LogInit: Net CL: 20788829
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 5800X 8-Core Processor             , GPU: NVIDIA GeForce RTX 3070 Ti
+LogInit: Compiled (64-bit): Jul 10 2022 23:41:01
+LogInit: Compiled with Visual C++: 19.29.30145.00
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: ++Fortnite+Release-21.20
+LogInit: Filtered Command Line: -obfuscationid=bpNRNFKwTd3rx4u8xU6WpplIF-dnxw -epicusername=Srinifish-YT -epicuserid=d30f049e43fe4c0fb419e6d984f85f5b -epiclocale=en -epicsandboxid=fn -nobe -fromfl=eac -caldera=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50X2lkIjoiZDMwZjA0OWU0M2ZlNGMwZmI0MTllNmQ5ODRmODVmNWIiLCJnZW5lcmF0ZWQiOjE2NTgwMzA0MjUsImNhbGRlcmFHdWlkIjoiNDNiY2VmYTktYzdhMi00NmQ0LTlhMGUtZWI0Njg5NmMwYWI0IiwiYWNQcm92aWRlciI6IkVhc3lBbnRpQ2hlYXQiLCJub3RlcyI6IiIsImZhbGxiYWNrIjpmYWxzZX0.E-lQYxuqEK6rT4-8Oe7eb7-PB6R3mq847QJtjLFJPX2sgSApnu38wS4oVnlPOAU9zdzY_rRwai1C7FOnkbXC1g
+LogInit: Base Directory: C:/Fortnite/FortniteGame/Binaries/Win64/
+LogInit: Allocator: binned2
+LogInit: Installed Engine Build: 1
+LogPlatformFileManagedStorage: Display: Scan directory C:/Users/srink/AppData/Local/FortniteGame/Saved/demos
+LogPlatformFileManagedStorage: Display: Scan directory C:/Users/srink/AppData/Local/FortniteGame/Saved/PersistentDownloadDir
+LogLinker: AddRedirectList(C:/Users/srink/AppData/Local/FortniteGame/Saved/Config/WindowsClient/NiagaraFluids.ini) has substring redirect /NiagaraSimulationStages/, these are very slow and should be resolved as soon as possible!
+LogPlatformFileManagedStorage: Display: Done scanning root directories
+LogLinker: AddRedirectList(Engine) has substring redirect /Moto/, these are very slow and should be resolved as soon as possible!
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 15728640 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+LogConfig: Set CVar [[s.AsyncLoadingThreadEnabled:1]]
+LogConfig: Set CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Set CVar [[s.PriorityAsyncLoadingExtraTime:40.0]]
+LogConfig: Set CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:10.0]]
+LogConfig: Set CVar [[s.ProcessPrestreamingRequests:1]]
+LogConfig: Set CVar [[s.ForceGCAfterLevelStreamedOut:0]]
+LogConfig: Set CVar [[s.ContinuouslyIncrementalGCWhileLevelsPendingPurge:0]]
+LogConfig: Set CVar [[s.MaxLevelRequestsAtOnceWhileInMatch:2]]
+LogStreaming: Display: AsyncLoading2 - Created: Event Driven Loader: true, Async Loading Thread: true, Async Post Load: true
+LogStreaming: Display: AsyncLoading2 - Initialized
+LogInit: Object subsystem initialized
+LogFortMemory: AppInit - CPU:603.39MB (Peak: 700.20MB), PhysicalAllocated: 603.39MB (Peak: 700.20MB), PhysicalFree: 23390.91MB, AuxiliaryUsed: 0.00MB
+LogConfig: Set CVar [[tick.LightweightTimeguardThresholdMS:30]]
+LogConfig: Set CVar [[csv.Shipping.ContinuousWrites:1]]
+LogConfig: Set CVar [[csv.ContinuousWrites:1]]
+LogConfig: Set CVar [[p.RigidBodyNode.DeferredSimulationDefault:1]]
+LogConfig: Set CVar [[p.RigidBodyNode.TaskPriority.Simulation:2]]
+LogConfig: Set CVar [[r.VT.SyncProduceLockedTiles:0]]
+LogConfig: Set CVar [[r.AllowStaticLighting:0]]
+LogConfig: Set CVar [[r.Shadow.CacheWPOPrimitives:1]]
+LogConfig: Set CVar [[r.Shadow.TransitionScale:1000]]
+LogConfig: Set CVar [[r.Shadow.PerObjectDirectionalSlopeDepthBias:8]]
+LogConfig: Set CVar [[r.Shadow.TexelsPerPixel:4]]
+LogConfig: Set CVar [[r.Shadow.PerObjectCastDistanceMin:4500.0]]
+LogConfig: Set CVar [[r.ContactShadows.NonShadowCastingIntensity:0.2]]
+LogConfig: Set CVar [[r.CapsuleIndirectConeAngle:.2]]
+LogConfig: Set CVar [[r.AOSpecularOcclusionMode:0]]
+LogConfig: Set CVar [[r.SupportSimpleForwardShading:1]]
+LogConfig: Set CVar [[FX.BatchAsync:1]]
+LogConfig: Set CVar [[grass.TickInterval:10]]
+LogConfig: Set CVar [[r.DistanceFields.MaxPerMeshResolution:128]]
+LogConfig: Set CVar [[r.DistanceFields.DefaultVoxelDensity:.1]]
+LogConfig: Set CVar [[r.setres:1280x720]]
+LogConfig: Set CVar [[r.MinYResolutionFor3DView:270]]
+LogConfig: Set CVar [[Slate.MaxFontAtlasPagesBeforeFlush:6]]
+LogConfig: Set CVar [[Slate.WorldWidgetIgnoreNotVisibleWidgets:1]]
+LogConfig: Set CVar [[net.ProcessQueuedBunchesMillisecondLimit:0]]
+LogConfig: Set CVar [[net.NetServerMoveTimestampExpiredWarningThreshold:5]]
+LogConfig: Set CVar [[t.FPSChart.InterestingFramerates:30,60]]
+LogConfig: Set CVar [[p.DisableQueryOnlyActors:1]]
+LogConfig: Set CVar [[r.D3D12.DXR.MinimumWindowsBuildVersion:18362]]
+LogConfig: Set CVar [[r.D3D12.DXR.MinimumDriverVersionNVIDIA:45000]]
+LogConfig: Set CVar [[r.StencilForLODDither:1]]
+LogConfig: Set CVar [[r.HLOD.ForceDisableCastDynamicShadow:1]]
+LogConfig: Set CVar [[r.gpucrash.datadepth:5]]
+LogConfig: Set CVar [[demo.WithLevelStreamingFixes:1]]
+LogConfig: Set CVar [[net.DisableRemapScriptActors:1]]
+LogConfig: Set CVar [[demo.ReplayStreamerAutoDemoPrefix:UnsavedReplay-]]
+LogConfig: Set CVar [[demo.ReplayStreamerAutoDemoUseDateTimePostfix:1]]
+LogConfig: Set CVar [[net.OodleMinSizeForCompression:19]]
+LogConfig: Set CVar [[net.MagicHeader:1110]]
+LogConfig: Set CVar [[net.NetPingEnabled:1]]
+LogConfig: Set CVar [[net.NetPingTypes:RoundTrip=PlayerStateAvg]]
+LogConfig: Set CVar [[net.TrackNetSerializeObjectReferences:1]]
+LogConfig: Set CVar [[net.CloseTimingDebug:1]]
+LogConfig: Set CVar [[r.ProgramBinaryCache.RestartAndroidAfterPrecompile:0]]
+LogConfig: Set CVar [[net.MaxConstructedPartialBunchSizeBytes:131072]]
+LogConfig: Set CVar [[r.MeshDrawCommands.AllowOnDemandShaderCreation:0]]
+LogConfig: Set CVar [[r.nanite:0]]
+LogConfig: Set CVar [[fx.Budget.Enabled:1]]
+LogConfig: Set CVar [[fx.Budget.HistoryFrames:240]]
+LogConfig: Set CVar [[fx.Budget.GameThread:1.0]]
+LogConfig: Set CVar [[fx.Budget.GameThreadConcurrent:3.0]]
+LogConfig: Set CVar [[fx.Budget.RenderThread:1.0]]
+LogConfig: Set CVar [[InGamePerformanceTracking.HistorySize:240]]
+LogConfig: Set CVar [[r.Lumen.Supported:0]]
+LogConfig: Set CVar [[r.Nanite.ProjectEnabled:0]]
+LogConfig: Set CVar [[r.Shadow.Virtual.NonNaniteVSM:0]]
+LogConfig: Set CVar [[gc.AllowEliminatingGarbageReferences:1]]
+LogConfig: Set CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
+LogConfig: Set CVar [[Fort.AthenaReplayBrowserDisplayFileName:1]]
+[2022.07.17-04.00.40:047][  0]LogFort: Display: Synced Skin Weight profile and Rigid Body Node CVars
+[2022.07.17-04.00.40:047][  0]LogFort: Display: RigidBody Node: 1
+[2022.07.17-04.00.40:047][  0]LogFort: Display: RigidBody LOD: -1
+[2022.07.17-04.00.40:047][  0]LogFort: Display: Skinweight Mode: -1
+[2022.07.17-04.00.40:047][  0]LogFort: Display: Skinweight from LOD: 0
+[2022.07.17-04.00.40:047][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.ExpandNewlyOcclusionTestedBBoxesAmount:75]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.GenerateMeshDistanceFields:1]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.CustomDepth:3]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.EarlyZPass:2]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.DBuffer:0]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.LightShaftRenderToSeparateTranslucency:1]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.EarlyZPassOnlyMaterialMasking:1]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.VertexFoggingForOpaque:0]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.SelectiveBasePassOutputs:1]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.Streaming.MaxTextureUVDensity:2500]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.Streaming.AllowParallelStreamingRenderAssets:1]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.MobileNumDynamicPointLights:0]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.Mobile.AllowDistanceFieldShadows:0]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:0]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.Mobile.SkyLightPermutation:2]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.Mobile.UseCSMShaderBranch:1]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.Mobile.CompressLandscapeWeightmaps:1]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.SupportStationarySkylight:0]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.SupportLowQualityLightmaps:0]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.OpenGL.ForceDXC:0]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.TemporalAA.Upsampling:0]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.AntiAliasingMethod:2]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.Mobile.DisableVertexFog:1]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.Mobile.AllowPixelDepthOffset:0]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.Mobile.AllowPerPixelShadingModels:0]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.RayTracing.PSOCacheSize:1]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.RayTracing.Geometry.InstancedStaticMeshes:0]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.RayTracing.Geometry.NiagaraRibbons:0]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.RayTracing.Geometry.NiagaraSprites:0]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.RayTracing.Geometry.StaticMeshes.WPO.CullingRadius:5000.0]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.RayTracing.Culling:1]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.RayTracing.Shadows:1]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.RayTracing.Reflections:1]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.RayTracing.AmbientOcclusion:1]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.RayTracing.GlobalIllumination:2]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.RayTracing.Translucency:0]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.RayTracing.Reflections.SamplesPerPixel:1]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.RayTracing.Reflections.MaxRoughness:0.35]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.RayTracing.Reflections.MaxBounces:1]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.RayTracing.Reflections.Shadows:1]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.RayTracing.Reflections.ReflectionCaptures:1]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.RayTracing.Reflections.ExperimentalDeferred:1]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.RayTracing.Reflections.ExperimentalDeferred.SmoothBias:0.5]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.RayTracing.GlobalIllumination.Lights.SkyLight:0]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.RayTracing.GlobalIllumination.Lights.PointLight:0]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.RayTracing.GlobalIllumination.Lights.SpotLight:0]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.RayTracing.GlobalIllumination.Lights.RectLight:0]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.RayTracing.GlobalIllumination.NextEventEstimationSamples:1]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.RayTracing.GlobalIllumination.SamplesPerPixel:2]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.RayTracing.GlobalIllumination.FinalGather.FilterWidth:3]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.DiffuseIndirect.Denoiser:2]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.RayTracing.Shadows.Lights.Point:0]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.RayTracing.Shadows.Lights.Spot:0]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.RayTracing.Shadows.Lights.Rect:0]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.VirtualTextures:1]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.MeshStreaming:1]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.Mobile.FloatPrecisionMode:2]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.VT.EnableAutoImport:0]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.Mobile.SupportsGen4TAA:0]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[r.Mobile.LandscapeMesh:0]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.07.17-04.00.40:047][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.07.17-04.00.40:047][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[gc.SizeOfPermanentObjectPool:15728640]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[gc.MaxObjectsInEditor:33554431]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[gc.VerifyUObjectsAreNotFGCObjects:0]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[gc.PendingKillEnabled:0]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Set CVar [[gc.AssetClustreringEnabled:0]]
+[2022.07.17-04.00.40:047][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.07.17-04.00.40:090][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.ViewDistanceScale:2.0]]
+[2022.07.17-04.00.40:090][  0]LogFortSignificance: Display: Set AI budget to '8,16'
+[2022.07.17-04.00.40:090][  0]LogFortSignificance: Display: Set AI Pawn movement budget to '4,4,10,82'
+[2022.07.17-04.00.40:090][  0]LogFortSignificance: Display: Set Athena AI Pawn movement budget to '3,3,4'
+[2022.07.17-04.00.40:090][  0]LogFortSignificance: Display: Set Athena Player Pawn budget to '500'
+[2022.07.17-04.00.40:090][  0]LogFortSignificance: Display: Set Athena Player Pawn movement budget to '4,4,10,82'
+[2022.07.17-04.00.40:090][  0]LogFortSignificance: Display: Set Athena SKVehicle budget to '3, 3'
+[2022.07.17-04.00.40:090][  0]LogFortSignificance: Display: Set fort physics object budget to '7,8'
+[2022.07.17-04.00.40:090][  0]LogFortSignificance: Display: Set Athena Player Pawn URO rate to '0'
+[2022.07.17-04.00.40:090][  0]LogFortSignificance: Display: Set Athena Player Pawn URO interpolation to '1,1,1,1'
+[2022.07.17-04.00.40:090][  0]LogFortSignificance: Display: Set Athena Player SkelMeshMinLOD to '0'
+[2022.07.17-04.00.40:090][  0]LogFortSignificance: Display: Set bucket distances to '50,100,250,500'
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[Fort.Scalability.AIBudget:8,16]]
+[2022.07.17-04.00.40:090][  0]LogFortSignificance: Display: Set Athena Player Pawn budget to '5,10,10'
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[Fort.Scalability.AthenaPlayerBudget:5,10,10]]
+[2022.07.17-04.00.40:090][  0]LogFortSignificance: Display: Set Athena Player Pawn URO rate to '0,1,2,3'
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[Fort.Scalability.AthenaPlayerBudget.URORates:0,1,2,3]]
+[2022.07.17-04.00.40:090][  0]LogFortSignificance: Display: Set Athena Player SkelMeshMinLOD to '0,1,1,2'
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[Fort.Scalability.AthenaPlayerBudget.SkelMeshMinLOD:0,1,1,2]]
+[2022.07.17-04.00.40:090][  0]LogFortSignificance: Display: Set Athena SKVehicle budget to '3,3'
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[Fort.Scalability.AthenaSKVehicleBudget:3,3]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[Fort.Scalability.MaxVisibleSprays:70]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[Fort.Scalability.MinimapCaptureResolution:2048]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.SceneCapture.OverrideOrthographicTilingValues:1]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[p.AnimDynamicsLODThreshold:1]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[p.RigidBodyLODThreshold:1]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.HLOD.DistanceOverride:40000,35000]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.ViewDistanceScale.FieldOfViewMaxAngle:80.0]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.ViewDistanceScale.FieldOfViewMinAngle:15.0]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.ViewDistanceScale.FieldOfViewMinAngleScale:2.0]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[Fort.Mutator.StreamDistanceOverrideScale:0.0]]
+[2022.07.17-04.00.40:090][  0]LogFortSignificance: Display: Set Athena Player Pawn movement budget to '5,5,15'
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[Fort.Scalability.AthenaPlayerBudget.Movement:5,5,15]]
+[2022.07.17-04.00.40:090][  0]LogFortSignificance: Display: Set Athena AI Pawn movement budget to '4,4,6'
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[Fort.Scalability.AthenaAIPawnBudget.Movement:4,4,6]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[Fort.ForceThrottledSimulatedFloorChecks:1]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[Fort.NetworkSmoothingSkipFramesLowestLOD:1]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.NeverOcclusionTestDistance:1250]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[a.Budget.Enabled:1]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[a.Budget.BudgetMs:1.5]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[Curie.Scalability.FX.GlowInterpolationSigCutoffDist:9216.0]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[Curie.Scalability.FX.CharredEffectInterpolationSigCutoffDist:9216.0]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.Streaming.DefaultNoRefLODBias:1]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[Fort.NetworkSmoothingSkipFramesLargeGameLOD2:0]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[Lobby.OtherSquads.ForcedLOD:1]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.StaticMesh.MinLodQualityLevel:3]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.SkeletalMesh.MinLodQualityLevel:3]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:1]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.Tonemapper.Sharpen:0.5]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.LightFunctionQuality:1]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[Fort.Scalability.PlayerInsetShadowsLOD:0]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[Fort.Scalability.PlayerInsetShadowsMax:5]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.Shadow.MaxNumFarShadowCascades:1]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:0]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.07.17-04.00.40:090][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.Bloom.HalfResolutionFFT:1]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.FastBlurThreshold:100]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.MaxAnisotropy:8]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.Streaming.PoolSize:1020]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[Fort.CosmeticManager.MaxCharacterParts:300]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[Fort.CosmeticManager.MaxGliders:300]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[Fort.CosmeticManager.MaxPickaxes:300]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[Fort.CosmeticManager.MaxPetTypes:30]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[Fort.CosmeticManager.MaxItemWrapTypes:72]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[Fort.AI.BudgetManager.MemoryBudgetKB:40000]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[Athena.CustomizationsPreloader.MinPriorityForAIPawnCustomizationPreloading:0]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[Athena.CustomizationsPreloader.MinPriorityForCharacterPartsPreloading:0]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.VT.MaxUploadsPerFrame:2]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.MaterialQualityLevel:3 ; Epic quality]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.SSS.Quality:1]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.SSS.HalfRes:0]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.SSGI.Quality:3]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[fx.Significance.MaxRange:14000]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.Water.EnableShallowWaterSimulation:0]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.Water.ShallowWaterRenderTargetSize:512]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.Water.WaterMesh.LODScaleBias:-0.5]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.07.17-04.00.40:090][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.07.17-04.00.40:090][  0]LogConfig: Set CVar [[r.AnisotropicMaterials:1]]
+[2022.07.17-04.00.40:105][  0]LogInit: Selected Device Profile: [WindowsClient]
+[2022.07.17-04.00.40:105][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsClient]
+[2022.07.17-04.00.40:105][  0]LogConfig: Set CVar [[dp.AllowScalabilityGroupsToChangeAtRuntime:1]]
+[2022.07.17-04.00.40:105][  0]LogHAL: Display: Platform has ~ 32 GB [34259062784 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.07.17-04.00.40:105][  0]LogDeviceProfileManager: Pushing Device Profile CVar: [[au.DisableEnvelopeFollowing:0 -> 1]]
+[2022.07.17-04.00.40:105][  0]LogDeviceProfileManager: Warning: Creating unregistered Device Profile CVar: [[r.DistanceFields.ParallelAtlasUpdate:1]]
+[2022.07.17-04.00.40:105][  0]LogDeviceProfileManager: Pushing Device Profile CVar: [[r.VHM.Enable:1 -> 0]]
+[2022.07.17-04.00.40:105][  0]LogDeviceProfileManager: Pushing Device Profile CVar: [[Building.ExpandOcclusionBoundsDuringBounceAmount:0.0 -> 10.0]]
+[2022.07.17-04.00.40:105][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.07.17-04.00.40:106][  0]LogDeviceProfileManager: Pushing Device Profile CVar: [[sg.ViewDistanceQuality:3 -> 2]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [Scalability]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.StaticMesh.MinLodQualityLevel:2]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.SkeletalMesh.MinLodQualityLevel:2]]
+[2022.07.17-04.00.40:106][  0]LogDeviceProfileManager: Pushing Device Profile CVar: [[sg.AntiAliasingQuality:3 -> 2]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [Scalability]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.FXAA.Quality:3]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.TemporalAA.Quality:1]]
+[2022.07.17-04.00.40:106][  0]LogDeviceProfileManager: Pushing Device Profile CVar: [[sg.ShadowQuality:3 -> 2]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [Scalability]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:2]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.Shadow.MaxResolution:1024]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.85]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.AOQuality:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.ContactShadows:0]]
+[2022.07.17-04.00.40:106][  0]LogDeviceProfileManager: Pushing Device Profile CVar: [[sg.PostProcessQuality:3 -> 2]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [Scalability]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.MotionBlurQuality:3]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.FastBlurThreshold:3]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.Upscale.Quality:2]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.Filter.SizeScale:0.8]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2022.07.17-04.00.40:106][  0]LogDeviceProfileManager: Pushing Device Profile CVar: [[sg.TextureQuality:3 -> 2]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [Scalability]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.MaxAnisotropy:4]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2022.07.17-04.00.40:106][  0]LogDeviceProfileManager: Pushing Device Profile CVar: [[sg.EffectsQuality:3 -> 2]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [Scalability]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.SSR.Quality:2]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.SceneColorFormat:3]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.DetailMode:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.SSS.SampleSet:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.SSS.Quality:-1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.SSS.HalfRes:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.SSGI.Quality:2]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.5]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.ParticleLightQuality:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:10]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:64.0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:64.0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[fx.Niagara.QualityLevel:2]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[fx.NiagaraGPUDataWarningSize:3670016]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[fx.Niagara.Emitter.MaxGPUBufferElements:1048576]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.Width:30]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.Height:30]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.Depth:40]]
+[2022.07.17-04.00.40:106][  0]LogDeviceProfileManager: Pushing Device Profile CVar: [[r.ShaderPipelineCache.GameFileMaskEnabled:0 -> 1]]
+[2022.07.17-04.00.40:106][  0]LogDeviceProfileManager: Pushing Device Profile CVar: [[r.ShaderPipelineCache.UserCacheUnusedElementRetainDays:30 -> 14]]
+[2022.07.17-04.00.40:106][  0]LogDeviceProfileManager: Pushing Device Profile CVar: [[r.ShaderPipelineCache.UserCacheUnusedElementCheckPeriod:-1 -> 1]]
+[2022.07.17-04.00.40:106][  0]LogDeviceProfileManager: Pushing Device Profile CVar: [[p.RigidBodyNode.TaskPriority.Simulation:2 -> 1]]
+[2022.07.17-04.00.40:106][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.07.17-04.00.40:106][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.FXAA.Quality:4]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.TemporalAA.Quality:2]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.ShadowQuality:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.Shadow.MaxResolution:512]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:512]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.6]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.DistanceFieldShadowing:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.DistanceFieldAO:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.VolumetricFog:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.CapsuleShadows:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.SkylightIntensityMultiplier:0.7]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Fort.TODDirectionalLightUpdateRate:6.0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Fort.TODDirectionalLightInterpSpeed:2.0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.Shadow.MaxNumPointShadowCacheUpdatesPerFrame:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.Shadow.MaxNumSpotShadowCacheUpdatesPerFrame:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Fort.Scalability.PlayerInsetShadowsLOD:-1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Fort.Scalability.PlayerInsetShadowsMax:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.Shadow.MaxNumFarShadowCascades:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.MotionBlurQuality:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.AmbientOcclusionLevels:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.DepthOfFieldQuality:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.RenderTargetPoolMin:300]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.LensFlareQuality:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.SceneColorFringeQuality:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.BloomQuality:4]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.Bloom.HalfResolutionFFT:2]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.FastBlurThreshold:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.Upscale.Quality:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.Tonemapper.GrainQuantization:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.LightShaftQuality:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.Filter.SizeScale:0.6]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.Tonemapper.Quality:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.Streaming.MipBias:16]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:5]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.Streaming.Boost:0.3]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.MaxAnisotropy:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.VT.MaxAnisotropy:4]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.Streaming.PoolSize:520]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Fort.CosmeticManager.MaxCharacterParts:100]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Fort.CosmeticManager.MaxGliders:96]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Fort.CosmeticManager.MaxPickaxes:96]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Fort.CosmeticManager.MaxPetTypes:10]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Fort.CosmeticManager.MaxItemWrapTypes:24]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Fort.AI.BudgetManager.MemoryBudgetKB:10000]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Athena.CustomizationsPreloader.MinPriorityForAIPawnCustomizationPreloading:0.5]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Athena.CustomizationsPreloader.MinPriorityForCharacterPartsPreloading:0.5]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.VT.PoolSizeScale:0.5]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.VT.RVT.TileCountBias:-1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.VT.MaxUploadsPerFrame:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.RefractionQuality:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.SSR.Quality:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.DetailMode:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.SSS.Scale:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.SSS.SampleSet:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.SSS.Quality:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.SSGI.Quality:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.125]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.ParticleLightQuality:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:2.0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:16.0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:2.0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:16.0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[fx.Niagara.QualityLevel:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Fort.Wind:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[fx.Significance.MaxRange:5000]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[p.AnimDynamicsWind:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.SeparateTranslucency:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.Water.WaterMesh.LODCountBias:-1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.Water.WaterMesh.TessFactorBias:-1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.Water.SingleLayer.RefractionDownsampleFactor:2]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Curie.Scalability.FX.AllowGlowInterpolation:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Curie.Scalability.FX.MaxNumFireParticlesToBurstSpawnPerSystem:9]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Curie.Scalability.FX.MaxNumFireParticlesToBurstSpawnPerLandscape:4]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Curie.Scalability.FX.MaxNumFireParticlesToBurstSpawnPerCurieComponent:2]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Curie.Scalability.FX.MaxNumFireParticlesToBurstSpawnPerGrassCell:2]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Curie.Scalability.FX.MaxNumFireParticlesToSpawnPerSecondPerGrassCell:5]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Curie.Scalability.FX.MaxNumComponentsToConsiderForFireParticles:60]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Curie.Scalability.FX.MaxNumComponentsAllowedForFireParticles:35]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Curie.Scalability.FX.MaxNumRelativeFireLocationsToGeneratePerComponent:14]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Curie.Scalability.FX.MaxNumFireLocationsToGeneratePerGrassCell:8]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Curie.Scalability.FX.MaxNumComponentsToAllowIgnitionPerBurstPerSystem:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Curie.Scalability.FX.MaxNumIgnitionParticlesToBurstSpawnPerComponent:12]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2022.07.17-04.00.40:106][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [Scalability]
+[2022.07.17-04.00.40:106][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[stats.AutoEnableNamedEventsWhenProfiling:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[p.RigidBodyNode.MaxSubSteps:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Fort.HoverLimitUpperBoundDistance:25000]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Fort.HoverLimitLowerBoundDistance:20000]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[net.AllowAsyncLoading:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[net.DelayUnmappedRPCs:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[net.MaxRPCPerNetUpdate:10]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[net.PingExcludeFrameTime:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[net.UseAdaptiveNetUpdateFrequency:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[net.ShareInitialCompareState:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[net.MaxNumberOfAllowedTArrayDeletionsPerUpdate:4096]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[net.MaxNumberOfAllowedTArrayChangesPerUpdate:4096]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[OSS.VerboseIdentityPayloads:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[httpReplay.ChunkUploadDelayInSeconds:20]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[demo.CheckpointUploadDelayInSeconds:60]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[gpad.DefaultLeftStickInnerDeadZone:0.24]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[gpad.LeftStickOuterDeadZone:0.01]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[gpad.DefaultRightStickInnerDeadZone:0.27]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[gpad.RightStickOuterDeadZone:0.01]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[demo.CullDistanceOverride:3000]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[demo.ClientRecordAsyncEndOfFrame:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[FX.Trail.MaxDistanceTessellation:100]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[fx.favorNiagaraOverCascadeProjectile:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[tick.DoAsyncEndOfFrameTasks:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[fx.Niagara.TaskPriority.SystemInstanceTask:2]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[fx.Niagara.TaskPriority.SystemSimulationTask:2]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[fx.Niagara.SystemSimulation.SkipTickDeltaSeconds:0.00001]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Athena.Frontend.UseRecentTabInsteadOfNewTab:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Store.EnableRefreshTimerButton:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Locker.EnableBangDismissal:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[np2.MinLODForNonLocal:1 ;nonlocal net predicted physics objects will use old replication path]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[np2.LODDistance:0 ;don't use distance based np lodding, avoid awkward hitches (has no effect when min lod for nonlocal is on anyway)]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Athena.Frontend.UnmuteVolumeWhenPreviewBPMusic:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.StaticMesh.StripMinLodDataDuringCooking:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.SkeletalMesh.StripMinLodDataDuringCooking:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.StaticMesh.KeepMobileMinLODSettingOnDesktop:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.SkeletalMesh.KeepMobileMinLODSettingOnDesktop:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.SkinCache.AllowDupedVertsForRecomputeTangents:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.RHICmdBalanceParallelLists:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[p.Chaos.Collision.UseAccumulatedImpulseClipSolve:2]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[p.DefaultCollisionFriction:0.55]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[p.CollisionBoundsVelocityInflation:2.0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[p.Chaos.TriMeshPerPolySupport:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[p.Chaos.UseRBANForDefaultPhysicsAssetSolverType:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[p.Chaos.MaxInflationScale:15.0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[p.Chaos.CCD.AlwaysSweepRemainingDT:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[p.Chaos.CCD.EnableThresholdBoundsScale:0.2]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[p.Chaos.Collision.CCD.ConstraintMaxProcessCount:2]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[p.Chaos.Collision.Manifold.Apply.ImpulseTolerance:0.001]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[p.Chaos.AccelerationStructureUseDynamicTree:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Athena.bMegaStormEnabled:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Net.RepGraph.DormantDynamicActorsDestruction:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Net.RepGraph.GridSpatialization2DDestroyDormantDynamicActorsDefault:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[FortRepGraph.SpatialBiasX:-270000]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[FortRepGraph.SpatialBiasY:-270000]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[fort.Building.AutoChangeMaterialOnPreview:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Fort.BuildingPreview.RetraceWhenStartPenetrating:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[voice.SilenceDetectionThreshold:0.0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[voice.NumChannels:2]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[fort.AsyncLoadingPrecachePriority.WhilstSkydiving:2]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[fort.AsyncLoadingPrecachePriority.NotSkydiving:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[demo.JumpToEndOfLiveReplay:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[demo.InternalPauseChannels:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[demo.WithGameSpecificFrameData:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[net.TrackQueuedActorThreshold:0.500]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[net.TrackAsyncLoadingGUIDThreshold:0.250]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[net.DelinquencyNumberOfTopOffendersToTrack:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[p.ClientAuthorityThresholdOnBaseChange:150]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[p.MaxFallingCorrectionLeash:150]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Fort.CharacterMovement.CanIdleOnMovingBase:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[au.MaxConcurrentStreams:32]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[au.EnableOcclusionFilterScale:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[au.WorldlessGetAudioTimeBehavior:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Fort.FPSChartResumeDelay:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Fort.PauseFPSChartOnDeactivate:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Fort.PauseFPSChartOnEnterBackground:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[leto.isSupported:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Athena.OverrideMMRValue:1100]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Phoebe.QuickSpawnBypassMMR:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Phoebe.BotPerfTestLocation:random]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Fort.SetAnimationStreamLookaheadTime:0.5]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Voice.JitterBufferDelay:0.5]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[au.Resonance.UsingReverb:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[bp.ShortScriptWarnings:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Fort.RBAN.Space.MasterAlpha:0.15]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Fort.RBAN.Space.MaxLinearVelocity:100.0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Fort.RBAN.Space.MaxLinearAcceleration:30.0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Fort.RBAN.Space.MaxAngularVelocity:10.0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Fort.RBAN.Space.MaxAngularAcceleration:300.0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[p.NetPackedMovementMaxBits:4096]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Fort.BuildingFoundationDoUnloadsFirst:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Fort.UseAgressiveGCDuringSpectateAndRespawn:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.TSR.Translucency.SeparateTemporalAccumulation:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Mole.Voting.ResultDisplay.Duration:10]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Mole.Voice.UsesProximityChat:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Mole.Voice.UseSingleChannel:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Fort.AISpawnerUtility.MaxNumSpawnedAI:30]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[AbilitySystem.AbilityTask.MaxCount:1200]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.SkinnedMesh.UpdateBoundsNotifyStreamingRadiusChangeRatio:0.2]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.Streaming.UseTextureStreamingBuiltData:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[FortPawn.SoundIndicator.FootstepSoundIndicatorMaxDistanceMultiplier:0.6]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Vehicle.SoundIndicator.MaxDistanceMultiplier:0.6]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[BuildingContainer.SoundIndicator.MaxDistanceMultiplier:0.78]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[net.WithArrayOnRepFix:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[g.TimeoutForBlockOnRenderFence:40000]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[au.DisableLegacyReverb:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.RayTracing:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.SkinCache.CompileShaders:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.SkinCache.Mode:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.RayTracing.NonBlockingPipelineCreation:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.MeshDrawCommands.AllowOnDemandShaderCreation:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.BasePassForceOutputsVelocity:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.NGX.DLSS.DilateMotionVectors:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Fort.LoadingScreenHeartbeatHangDuration:600]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[Creative.LinkDataManager.EnableRuntimeDXTCompression:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[CMS.EnableDXTCompression:1]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.ShaderPipelines:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.Material.ExcludeNonPipelinedShaders:0]]
+[2022.07.17-04.00.40:106][  0]LogConfig: Set CVar [[r.CEFGPUAcceleration:0]]
+[2022.07.17-04.00.40:106][  0]LogFort: Display: Synced Skin Weight profile and Rigid Body Node CVars
+[2022.07.17-04.00.40:106][  0]LogFort: Display: RigidBody Node: 1
+[2022.07.17-04.00.40:106][  0]LogFort: Display: RigidBody LOD: 1
+[2022.07.17-04.00.40:106][  0]LogFort: Display: Skinweight Mode: 1
+[2022.07.17-04.00.40:106][  0]LogFort: Display: Skinweight from LOD: 2
+[2022.07.17-04.00.40:107][  0]LogInit: Computer: SRINITHISHPC
+[2022.07.17-04.00.40:107][  0]LogInit: User: srink
+[2022.07.17-04.00.40:107][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.07.17-04.00.40:107][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.07.17-04.00.40:107][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.07.17-04.00.40:107][  0]LogMemory: Platform Memory Stats for WindowsClient
+[2022.07.17-04.00.40:107][  0]LogMemory: Process Physical Memory: 605.29 MB used, 700.20 MB peak
+[2022.07.17-04.00.40:107][  0]LogMemory: Process Virtual Memory: 369.72 MB used, 706.45 MB peak
+[2022.07.17-04.00.40:107][  0]LogMemory: Physical Memory: 9280.36 MB used,  23391.63 MB free, 32671.99 MB total
+[2022.07.17-04.00.40:107][  0]LogMemory: Virtual Memory: 11651.79 MB used,  25884.20 MB free, 37535.99 MB total
+[2022.07.17-04.00.40:189][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.07.17-04.00.40:189][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.07.17-04.00.40:189][  0]LogInit: Using OS detected language (en-US).
+[2022.07.17-04.00.40:189][  0]LogInit: Using OS detected locale (en-AU).
+[2022.07.17-04.00.40:190][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.07.17-04.00.40:192][  0]LogOnline: MCP: Flushing Catalog Service cached offers/items.
+[2022.07.17-04.00.40:192][  0]LogInit: Setting process to per monitor DPI aware
+[2022.07.17-04.00.40:299][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.07.17-04.00.40:299][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.07.17-04.00.40:299][  0]LogWindowsTextInputMethodSystem:   - English (Australia) - (Keyboard).
+[2022.07.17-04.00.40:300][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.07.17-04.00.40:399][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.07.17-04.00.40:399][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.07.17-04.00.40:479][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.07.17-04.00.41:110][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.07.17-04.00.41:110][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.07.17-04.00.41:110][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.07.17-04.00.41:110][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.07.17-04.00.41:110][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.07.17-04.00.41:110][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.07.17-04.00.41:110][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.07.17-04.00.41:110][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.07.17-04.00.41:110][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.07.17-04.00.41:110][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.07.17-04.00.41:110][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.07.17-04.00.41:110][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.07.17-04.00.41:110][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.07.17-04.00.41:219][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.07.17-04.00.41:219][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.07.17-04.00.41:374][  0]LogD3D12RHI:     GPU DeviceId: 0x2482 (for the marketing name, search the web for "GPU Device Id")
+[2022.07.17-04.00.41:374][  0]LogWindows: EnumDisplayDevices:
+[2022.07.17-04.00.41:374][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3070 Ti' (P:1 D:1)
+[2022.07.17-04.00.41:374][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3070 Ti' (P:0 D:1)
+[2022.07.17-04.00.41:375][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3070 Ti' (P:0 D:0)
+[2022.07.17-04.00.41:375][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3070 Ti' (P:0 D:0)
+[2022.07.17-04.00.41:376][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.07.17-04.00.41:376][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3070 Ti
+[2022.07.17-04.00.41:376][  0]LogD3D12RHI:   Driver Version: 516.59 (internal:31.0.15.1659, unified:516.59)
+[2022.07.17-04.00.41:376][  0]LogD3D12RHI:      Driver Date: 6-23-2022
+[2022.07.17-04.00.41:376][  0]LogRHI: Texture pool is 4581 MB (70% of 6545 MB)
+[2022.07.17-04.00.41:376][  0]LogD3D12RHI: Async texture creation enabled
+[2022.07.17-04.00.41:376][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.07.17-04.00.41:387][  0]LogRHI: GeForceNow SDK initialization failed: -2
+[2022.07.17-04.00.41:407][  0]LogRendererCore: Ray tracing is disabled for the game. Reason: user setting r.RayTracing.EnableInGame=0.
+[2022.07.17-04.00.41:407][  0]LogShaderLibrary: Display: Using IoDispatcher for shader code library Global. Total 3186 unique shaders.
+[2022.07.17-04.00.41:407][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library Global
+[2022.07.17-04.00.41:407][  0]LogShaderLibrary: Display: Logical shader library 'Global' has been created, components 1
+[2022.07.17-04.00.41:437][  0]LogSlate: Using FreeType 2.10.0
+[2022.07.17-04.00.41:438][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.07.17-04.00.41:561][  0]LogAnalytics: Display: [Fortnite.Fortnite] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 1.0.0 - ++Fortnite+Release-21.20-CL-21035704
+[2022.07.17-04.00.41:593][  0]LogFortniteEarlyStartupPatcher: Display: BundleNamesToLoad:FortniteBR
+[2022.07.17-04.00.41:593][  0]LogFortniteEarlyStartupPatcher: Display: BundleNamesToLoad:Lang.all
+[2022.07.17-04.00.41:593][  0]LogFortniteEarlyStartupPatcher: Display: OptionalBundleNamesToLoad:KairosCaptureOptional
+[2022.07.17-04.00.41:593][  0]LogFortniteEarlyStartupPatcher: Display: OptionalBundleNamesToLoad:Lang.allOptional
+[2022.07.17-04.00.41:594][  0]LogOnline: MCP: Service status updated [Normal] -> [Connected]
+[2022.07.17-04.00.41:594][  0]LogDefaultInstallBundleManager: Display: Initializing all bundle sources...
+[2022.07.17-04.00.41:594][  0]LogDefaultInstallBundleManager: Display: InstallBundleSourceBulk: Making Bundles for Bulk Build
+[2022.07.17-04.00.41:595][  0]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Attempting to find build meta data...
+[2022.07.17-04.00.41:595][  0]LogStreaming: Warning: Failed to read file 'C:/Fortnite/BuildInfo.ini' error.
+[2022.07.17-04.00.42:230][  1]LogFortInstallBundleManager: Display: InstallBundleSourceGameCustom: Load Package Manifest
+[2022.07.17-04.00.42:231][  2]LogFortInstallBundleManager: Display: InstallBundleSourceGameCustom: No Package Manfiest Found
+[2022.07.17-04.00.42:231][  2]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Found manifest Builds/Fortnite/Content/CloudDir/QBFWZwFSMMRvx6eeZEeitrvrt9kDkA.manifest from query lfzO8e-V1SnRj_Ru7UyddH_8eb2p6g-Windows.
+[2022.07.17-04.00.42:231][  2]LogDefaultInstallBundleManager: Display: InstallBundleSourceBulk: Fire Init Analytic: OK
+[2022.07.17-04.00.42:231][  2]LogFortInstallBundleManager: Display: InstallBundleSourceGameCustom: Loading Journal
+[2022.07.17-04.00.42:231][ 24]LogFortInstallBundleManager: Display: InstallBundleSourceGameCustom: Found and loaded Journal file!
+[2022.07.17-04.00.42:231][ 24]LogFortInstallBundleManager: Display: InstallBundleSourceGameCustom: Current Journal Version is 7
+[2022.07.17-04.00.42:231][ 24]LogFortInstallBundleManager: Display: InstallBundleSourceGameCustom: Found Journal Version 7, Branch ++Fortnite+Release-21.20
+[2022.07.17-04.00.42:232][ 24]LogFortInstallBundleManager: Display: InstallBundleSourceGameCustom: Found up to date bundle dfe087f0-439c-131f-0329-298b8b614a76-https%3A%2F%2Fcooked-content-live-cdn.epicgames.com%2Fvalkyrie%2Fcooked-content%2F21.20.21034994%2Fdfe087f0-439c-131f-0329-298b8b614a76%2Fv18%2F9e971652-8ceb-4c4c-8b23-5bdd58d8f279%2F
+[2022.07.17-04.00.42:232][ 24]LogFortInstallBundleManager: Display: InstallBundleSourceGameCustom: Verify Installed Content
+[2022.07.17-04.00.42:232][ 25]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Loading Manifest Archive
+[2022.07.17-04.00.42:232][ 57]LogFortInstallBundleManager: Display: Finding directory size for C:/Users/srink/AppData/Local/FortniteGame/Saved/PersistentDownloadDir/GameCustom/InstalledBundles/dfe087f0-439c-131f-0329-298b8b614a76-gQE78s9S0UOw5t122Jc1_g
+[2022.07.17-04.00.42:232][ 57]LogFortInstallBundleManager: Display: Found file C:/Users/srink/AppData/Local/FortniteGame/Saved/PersistentDownloadDir/GameCustom/InstalledBundles/dfe087f0-439c-131f-0329-298b8b614a76-gQE78s9S0UOw5t122Jc1_g/CachedBPSManifest.manifest with size 509
+[2022.07.17-04.00.42:232][ 57]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Uninstall Bundles On Init
+[2022.07.17-04.00.42:232][ 57]LogFortInstallBundleManager: Display: Found file C:/Users/srink/AppData/Local/FortniteGame/Saved/PersistentDownloadDir/GameCustom/InstalledBundles/dfe087f0-439c-131f-0329-298b8b614a76-gQE78s9S0UOw5t122Jc1_g/plugin.pak with size 6018
+[2022.07.17-04.00.42:232][ 57]LogFortInstallBundleManager: Display: Found file C:/Users/srink/AppData/Local/FortniteGame/Saved/PersistentDownloadDir/GameCustom/InstalledBundles/dfe087f0-439c-131f-0329-298b8b614a76-gQE78s9S0UOw5t122Jc1_g/plugin.sig with size 532
+[2022.07.17-04.00.42:232][ 57]LogFortInstallBundleManager: Display: Found file C:/Users/srink/AppData/Local/FortniteGame/Saved/PersistentDownloadDir/GameCustom/InstalledBundles/dfe087f0-439c-131f-0329-298b8b614a76-gQE78s9S0UOw5t122Jc1_g/plugin.ucas with size 2087648
+[2022.07.17-04.00.42:232][ 57]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Get Distribution Roots
+[2022.07.17-04.00.42:232][ 58]LogFortInstallBundleManager: Display: Found file C:/Users/srink/AppData/Local/FortniteGame/Saved/PersistentDownloadDir/GameCustom/InstalledBundles/dfe087f0-439c-131f-0329-298b8b614a76-gQE78s9S0UOw5t122Jc1_g/plugin.utoc with size 8140
+[2022.07.17-04.00.42:232][ 58]LogFortInstallBundleManager: Display: Found 5 files in directory C:/Users/srink/AppData/Local/FortniteGame/Saved/PersistentDownloadDir/GameCustom/InstalledBundles/dfe087f0-439c-131f-0329-298b8b614a76-gQE78s9S0UOw5t122Jc1_g
+[2022.07.17-04.00.42:232][ 58]LogFortInstallBundleManager: Display: InstallBundleSourceGameCustom: Loading Cached Manifests
+[2022.07.17-04.00.42:232][113]LogFortInstallBundleManager: Display: InstallBundleSourceGameCustom: Fire Init Analytic: OK
+[2022.07.17-04.00.42:518][835]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Loading Manifest
+[2022.07.17-04.00.42:574][223]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Found manifest Builds/Fortnite/Content/CloudDir/QBFWZwFSMMRvx6eeZEeitrvrt9kDkA.manifest with build version ++Fortnite+Release-21.20-CL-21035704-Windows cached locally
+[2022.07.17-04.00.42:574][223]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Loaded Manifest from disk.
+[2022.07.17-04.00.42:574][224]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Getting Install Tags
+[2022.07.17-04.00.42:580][224]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Clean Invalid Installed Content
+[2022.07.17-04.00.42:594][135]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Download Config Found C:/Users/srink/AppData/Local/FortniteGame/Saved/PersistentDownloadDir/ManifestCache/QBFWZwFSMMRvx6eeZEeitrvrt9kDkA/Full.ini in cache not downloading.
+[2022.07.17-04.00.42:594][135]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Found and loaded chunkdb config file from C:/Users/srink/AppData/Local/FortniteGame/Saved/PersistentDownloadDir/ManifestCache/QBFWZwFSMMRvx6eeZEeitrvrt9kDkA/Full.ini
+[2022.07.17-04.00.42:594][135]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Fire Init Analytic: OK
+[2022.07.17-04.00.42:594][135]LogDefaultInstallBundleManager: Display: All bundle sources done initializing
+[2022.07.17-04.00.42:595][136]LogDefaultInstallBundleManager: Display: Using Bundle Cache ContentOnDemand for Bundle Source BuildPatchServices
+[2022.07.17-04.00.42:595][136]LogDefaultInstallBundleManager: Display: Using Bundle Cache ContentOnDemand for Bundle Source GameCustom
+[2022.07.17-04.00.42:595][136]LogDefaultInstallBundleManager: Display: Querying bundle sources for bundle info...
+[2022.07.17-04.00.42:622][136]LogDefaultInstallBundleManager: Display: All bundle source bundle info querys complete
+[2022.07.17-04.00.42:628][136]LogDefaultInstallBundleManager: Display: Setting bundle source callback to update bundle info...
+[2022.07.17-04.00.42:628][136]LogDefaultInstallBundleManager: Display: Setting up analytics
+[2022.07.17-04.00.42:628][136]LogDefaultInstallBundleManager: Display: Fire Init Analytic: OK
+[2022.07.17-04.00.42:628][136]LogInstallBundleManager: Display: 
+[2022.07.17-04.00.42:628][136]LogInstallBundleManager: Display: * Install Bundle Cache Stats ContentOnDemand
+[2022.07.17-04.00.42:628][136]LogInstallBundleManager: Display: * 	size: 671088640
+[2022.07.17-04.00.42:628][136]LogInstallBundleManager: Display: * 	used: 2102847
+[2022.07.17-04.00.42:628][136]LogInstallBundleManager: Display: * 	reserved: 0
+[2022.07.17-04.00.42:628][136]LogInstallBundleManager: Display: * 	free: 668985793
+[2022.07.17-04.00.42:628][136]LogInstallBundleManager: Display: 
+[2022.07.17-04.00.42:628][136]LogFortniteEarlyStartupPatcher: Display: Call to BeginPatching()...
+[2022.07.17-04.00.42:629][136]LogFortniteEarlyStartupPatcher: Display: Wating on 2 content state requests
+[2022.07.17-04.00.42:762][688]LogFortniteEarlyStartupPatcher: Display: Found content versions for Bundle FortniteBR from MinVersion ++Fortnite+Release-21.20-CL-21035704-Windows to MaxVersion ++Fortnite+Release-21.20-CL-21035704-Windows. Current Version ++Fortnite+Release-21.20-CL-21035704-Windows
+[2022.07.17-04.00.42:762][688]LogFortniteEarlyStartupPatcher: Display: Found content versions for Bundle KairosCaptureOptional from MinVersion ++Fortnite+Release-21.20-CL-21035704-Windows to MaxVersion ++Fortnite+Release-21.20-CL-21035704-Windows. Current Version ++Fortnite+Release-21.20-CL-21035704-Windows
+[2022.07.17-04.00.42:762][688]LogFortniteEarlyStartupPatcher: Display: Received Total DownloadSize of 0
+[2022.07.17-04.00.42:762][688]LogFortniteEarlyStartupPatcher: Display: Received Total InstallSize of 0
+[2022.07.17-04.00.42:762][688]LogFortniteEarlyStartupPatcher: Display: Received InstallOverheadSize of 0
+[2022.07.17-04.00.42:762][688]LogFortniteEarlyStartupPatcher: Display: Received FreeSpace of 743625949184
+[2022.07.17-04.00.42:762][688]LogDefaultInstallBundleManager: Display: Requesting Bundle FortniteBR
+[2022.07.17-04.00.42:762][688]LogDefaultInstallBundleManager: Display: Requesting Bundle FrontEnd
+[2022.07.17-04.00.42:762][688]LogDefaultInstallBundleManager: Display: Requesting Bundle KairosCapture
+[2022.07.17-04.00.42:762][688]LogDefaultInstallBundleManager: Display: Requesting Bundle Startup
+[2022.07.17-04.00.42:762][688]LogDefaultInstallBundleManager: Display: Requesting Bundle Lang.all
+[2022.07.17-04.00.42:762][688]LogDefaultInstallBundleManager: Display: Requesting Bundle Lang.de
+[2022.07.17-04.00.42:762][688]LogDefaultInstallBundleManager: Display: Requesting Bundle Lang.es-ES
+[2022.07.17-04.00.42:762][688]LogDefaultInstallBundleManager: Display: Requesting Bundle Lang.es-419
+[2022.07.17-04.00.42:762][688]LogDefaultInstallBundleManager: Display: Requesting Bundle Lang.fr
+[2022.07.17-04.00.42:762][688]LogDefaultInstallBundleManager: Display: Requesting Bundle Lang.it
+[2022.07.17-04.00.42:762][688]LogDefaultInstallBundleManager: Display: Requesting Bundle Lang.pl
+[2022.07.17-04.00.42:762][688]LogDefaultInstallBundleManager: Display: Requesting Bundle Lang.ru
+[2022.07.17-04.00.42:762][688]LogDefaultInstallBundleManager: Display: Requesting Bundle Lang.zh-CN
+[2022.07.17-04.00.42:762][688]LogFortniteEarlyStartupPatcher: Display: Registering RequiredBundle -- Name:FortniteBR
+[2022.07.17-04.00.42:762][688]LogFortniteEarlyStartupPatcher: Display: Registering RequiredBundle -- Name:Frontend
+[2022.07.17-04.00.42:762][688]LogFortniteEarlyStartupPatcher: Display: Registering RequiredBundle -- Name:KairosCapture
+[2022.07.17-04.00.42:762][688]LogFortniteEarlyStartupPatcher: Display: Registering RequiredBundle -- Name:Startup
+[2022.07.17-04.00.42:762][688]LogFortniteEarlyStartupPatcher: Display: Registering RequiredBundle -- Name:Lang.all
+[2022.07.17-04.00.42:762][688]LogFortniteEarlyStartupPatcher: Display: Registering RequiredBundle -- Name:Lang.de
+[2022.07.17-04.00.42:762][688]LogFortniteEarlyStartupPatcher: Display: Registering RequiredBundle -- Name:Lang.es-ES
+[2022.07.17-04.00.42:762][688]LogFortniteEarlyStartupPatcher: Display: Registering RequiredBundle -- Name:Lang.es-419
+[2022.07.17-04.00.42:762][688]LogFortniteEarlyStartupPatcher: Display: Registering RequiredBundle -- Name:Lang.fr
+[2022.07.17-04.00.42:762][688]LogFortniteEarlyStartupPatcher: Display: Registering RequiredBundle -- Name:Lang.it
+[2022.07.17-04.00.42:762][688]LogFortniteEarlyStartupPatcher: Display: Registering RequiredBundle -- Name:Lang.pl
+[2022.07.17-04.00.42:762][688]LogFortniteEarlyStartupPatcher: Display: Registering RequiredBundle -- Name:Lang.ru
+[2022.07.17-04.00.42:762][688]LogFortniteEarlyStartupPatcher: Display: Registering RequiredBundle -- Name:Lang.zh-CN
+[2022.07.17-04.00.42:762][688]LogDefaultInstallBundleManager: Display: Starting Request FortniteBR
+[2022.07.17-04.00.42:762][688]LogDefaultInstallBundleManager: Display: Skipped Checking Prereq latest client for Request FortniteBR, Content up to date
+[2022.07.17-04.00.42:762][688]LogDefaultInstallBundleManager: Display: Starting Request Frontend
+[2022.07.17-04.00.42:762][688]LogDefaultInstallBundleManager: Display: Starting Request KairosCapture
+[2022.07.17-04.00.42:762][688]LogDefaultInstallBundleManager: Display: Skipped Checking Prereq latest client for Request KairosCapture, Content up to date
+[2022.07.17-04.00.42:762][688]LogDefaultInstallBundleManager: Display: Starting Request Startup
+[2022.07.17-04.00.42:762][688]LogDefaultInstallBundleManager: Display: Starting Request Lang.all
+[2022.07.17-04.00.42:762][688]LogDefaultInstallBundleManager: Display: Starting Request Lang.de
+[2022.07.17-04.00.42:762][688]LogDefaultInstallBundleManager: Display: Skipped Checking Prereq latest client for Request Lang.de, Content up to date
+[2022.07.17-04.00.42:763][688]LogDefaultInstallBundleManager: Display: Starting Request Lang.es-ES
+[2022.07.17-04.00.42:763][688]LogDefaultInstallBundleManager: Display: Skipped Checking Prereq latest client for Request Lang.es-ES, Content up to date
+[2022.07.17-04.00.42:763][688]LogDefaultInstallBundleManager: Display: Starting Request Lang.es-419
+[2022.07.17-04.00.42:763][688]LogDefaultInstallBundleManager: Display: Skipped Checking Prereq latest client for Request Lang.es-419, Content up to date
+[2022.07.17-04.00.42:763][688]LogDefaultInstallBundleManager: Display: Starting Request Lang.fr
+[2022.07.17-04.00.42:763][688]LogDefaultInstallBundleManager: Display: Skipped Checking Prereq latest client for Request Lang.fr, Content up to date
+[2022.07.17-04.00.42:763][688]LogDefaultInstallBundleManager: Display: Starting Request Lang.it
+[2022.07.17-04.00.42:763][688]LogDefaultInstallBundleManager: Display: Skipped Checking Prereq latest client for Request Lang.it, Content up to date
+[2022.07.17-04.00.42:763][688]LogDefaultInstallBundleManager: Display: Starting Request Lang.pl
+[2022.07.17-04.00.42:763][688]LogDefaultInstallBundleManager: Display: Skipped Checking Prereq latest client for Request Lang.pl, Content up to date
+[2022.07.17-04.00.42:763][688]LogDefaultInstallBundleManager: Display: Starting Request Lang.ru
+[2022.07.17-04.00.42:763][688]LogDefaultInstallBundleManager: Display: Skipped Checking Prereq latest client for Request Lang.ru, Content up to date
+[2022.07.17-04.00.42:763][688]LogDefaultInstallBundleManager: Display: Starting Request Lang.zh-CN
+[2022.07.17-04.00.42:763][688]LogDefaultInstallBundleManager: Display: Skipped Checking Prereq latest client for Request Lang.zh-CN, Content up to date
+[2022.07.17-04.00.42:763][688]LogDefaultInstallBundleManager: Display: InstallBundleSourceBulk: Requesting Bundle KairosCapture
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceGameCustom: Requesting Bundle KairosCapture
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceGameCustom: Ignoring request for Bundle Update (KairosCapture)
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Requesting Bundle KairosCapture
+[2022.07.17-04.00.42:763][688]LogDefaultInstallBundleManager: Display: InstallBundleSourceBulk: Requesting Bundle Lang.es-ES
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceGameCustom: Requesting Bundle Lang.es-ES
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceGameCustom: Ignoring request for Bundle Update (Lang.es-ES)
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Requesting Bundle Lang.es-ES
+[2022.07.17-04.00.42:763][688]LogDefaultInstallBundleManager: Display: InstallBundleSourceBulk: Requesting Bundle Frontend
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceGameCustom: Requesting Bundle Frontend
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceGameCustom: Ignoring request for Bundle Update (Frontend)
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Requesting Bundle Frontend
+[2022.07.17-04.00.42:763][688]LogDefaultInstallBundleManager: Display: InstallBundleSourceBulk: Requesting Bundle Lang.es-419
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceGameCustom: Requesting Bundle Lang.es-419
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceGameCustom: Ignoring request for Bundle Update (Lang.es-419)
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Requesting Bundle Lang.es-419
+[2022.07.17-04.00.42:763][688]LogDefaultInstallBundleManager: Display: InstallBundleSourceBulk: Requesting Bundle Startup
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceGameCustom: Requesting Bundle Startup
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceGameCustom: Ignoring request for Bundle Update (Startup)
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Requesting Bundle Startup
+[2022.07.17-04.00.42:763][688]LogDefaultInstallBundleManager: Display: InstallBundleSourceBulk: Requesting Bundle Lang.all
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceGameCustom: Requesting Bundle Lang.all
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceGameCustom: Ignoring request for Bundle Update (Lang.all)
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Requesting Bundle Lang.all
+[2022.07.17-04.00.42:763][688]LogDefaultInstallBundleManager: Display: InstallBundleSourceBulk: Requesting Bundle Lang.de
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceGameCustom: Requesting Bundle Lang.de
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceGameCustom: Ignoring request for Bundle Update (Lang.de)
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Requesting Bundle Lang.de
+[2022.07.17-04.00.42:763][688]LogDefaultInstallBundleManager: Display: InstallBundleSourceBulk: Requesting Bundle Lang.fr
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceGameCustom: Requesting Bundle Lang.fr
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceGameCustom: Ignoring request for Bundle Update (Lang.fr)
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Requesting Bundle Lang.fr
+[2022.07.17-04.00.42:763][688]LogDefaultInstallBundleManager: Display: InstallBundleSourceBulk: Requesting Bundle Lang.it
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceGameCustom: Requesting Bundle Lang.it
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceGameCustom: Ignoring request for Bundle Update (Lang.it)
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Requesting Bundle Lang.it
+[2022.07.17-04.00.42:763][688]LogDefaultInstallBundleManager: Display: InstallBundleSourceBulk: Requesting Bundle Lang.pl
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceGameCustom: Requesting Bundle Lang.pl
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceGameCustom: Ignoring request for Bundle Update (Lang.pl)
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Requesting Bundle Lang.pl
+[2022.07.17-04.00.42:763][688]LogDefaultInstallBundleManager: Display: InstallBundleSourceBulk: Requesting Bundle Lang.ru
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceGameCustom: Requesting Bundle Lang.ru
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceGameCustom: Ignoring request for Bundle Update (Lang.ru)
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Requesting Bundle Lang.ru
+[2022.07.17-04.00.42:763][688]LogDefaultInstallBundleManager: Display: InstallBundleSourceBulk: Requesting Bundle Lang.zh-CN
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceGameCustom: Requesting Bundle Lang.zh-CN
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceGameCustom: Ignoring request for Bundle Update (Lang.zh-CN)
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Requesting Bundle Lang.zh-CN
+[2022.07.17-04.00.42:763][688]LogDefaultInstallBundleManager: Display: InstallBundleSourceBulk: Requesting Bundle FortniteBR
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceGameCustom: Requesting Bundle FortniteBR
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceGameCustom: Ignoring request for Bundle Update (FortniteBR)
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Requesting Bundle FortniteBR
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Completing Request KairosCapture
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Skipping JournalManifest Update for KairosCapture as access timestamp was too recent
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Completing Request Lang.es-ES
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Skipping JournalManifest Update for Lang.es-ES as access timestamp was too recent
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Completing Request Frontend
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Skipping JournalManifest Update for FrontEnd as access timestamp was too recent
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Completing Request Lang.es-419
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Skipping JournalManifest Update for Lang.es-419 as access timestamp was too recent
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Completing Request Startup
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Skipping JournalManifest Update for Startup as access timestamp was too recent
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Completing Request Lang.all
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Skipping JournalManifest Update for Lang.all as access timestamp was too recent
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Completing Request Lang.de
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Skipping JournalManifest Update for Lang.de as access timestamp was too recent
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Completing Request Lang.fr
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Skipping JournalManifest Update for Lang.fr as access timestamp was too recent
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Completing Request Lang.it
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Skipping JournalManifest Update for Lang.it as access timestamp was too recent
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Completing Request Lang.pl
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Skipping JournalManifest Update for Lang.pl as access timestamp was too recent
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Completing Request Lang.ru
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Skipping JournalManifest Update for Lang.ru as access timestamp was too recent
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Completing Request Lang.zh-CN
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Skipping JournalManifest Update for Lang.zh-CN as access timestamp was too recent
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Completing Request FortniteBR
+[2022.07.17-04.00.42:763][688]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Skipping JournalManifest Update for FortniteBR as access timestamp was too recent
+[2022.07.17-04.00.42:763][690]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Finishing Request KairosCapture with Result OK
+[2022.07.17-04.00.42:763][690]LogDefaultInstallBundleManager: Display: Bundle KairosCapture done waiting for all bundle sources!
+[2022.07.17-04.00.42:763][690]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Removing Request KairosCapture
+[2022.07.17-04.00.42:763][690]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Finishing Request FortniteBR with Result OK
+[2022.07.17-04.00.42:763][690]LogDefaultInstallBundleManager: Display: Bundle FortniteBR done waiting for all bundle sources!
+[2022.07.17-04.00.42:763][690]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Removing Request FortniteBR
+[2022.07.17-04.00.42:763][690]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Finishing Request Lang.zh-CN with Result OK
+[2022.07.17-04.00.42:763][690]LogDefaultInstallBundleManager: Display: Bundle Lang.zh-CN done waiting for all bundle sources!
+[2022.07.17-04.00.42:763][690]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Removing Request Lang.zh-CN
+[2022.07.17-04.00.42:763][690]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Finishing Request Lang.ru with Result OK
+[2022.07.17-04.00.42:763][690]LogDefaultInstallBundleManager: Display: Bundle Lang.ru done waiting for all bundle sources!
+[2022.07.17-04.00.42:763][690]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Removing Request Lang.ru
+[2022.07.17-04.00.42:763][690]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Finishing Request Lang.pl with Result OK
+[2022.07.17-04.00.42:763][690]LogDefaultInstallBundleManager: Display: Bundle Lang.pl done waiting for all bundle sources!
+[2022.07.17-04.00.42:763][690]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Removing Request Lang.pl
+[2022.07.17-04.00.42:763][690]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Finishing Request Lang.it with Result OK
+[2022.07.17-04.00.42:763][690]LogDefaultInstallBundleManager: Display: Bundle Lang.it done waiting for all bundle sources!
+[2022.07.17-04.00.42:763][690]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Removing Request Lang.it
+[2022.07.17-04.00.42:763][690]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Finishing Request Lang.fr with Result OK
+[2022.07.17-04.00.42:763][690]LogDefaultInstallBundleManager: Display: Bundle Lang.fr done waiting for all bundle sources!
+[2022.07.17-04.00.42:763][690]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Removing Request Lang.fr
+[2022.07.17-04.00.42:763][690]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Finishing Request Lang.de with Result OK
+[2022.07.17-04.00.42:763][690]LogDefaultInstallBundleManager: Display: Bundle Lang.de done waiting for all bundle sources!
+[2022.07.17-04.00.42:763][690]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Removing Request Lang.de
+[2022.07.17-04.00.42:763][690]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Finishing Request Lang.all with Result OK
+[2022.07.17-04.00.42:763][690]LogDefaultInstallBundleManager: Display: Bundle Lang.all done waiting for all bundle sources!
+[2022.07.17-04.00.42:763][690]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Removing Request Lang.all
+[2022.07.17-04.00.42:763][690]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Finishing Request Startup with Result OK
+[2022.07.17-04.00.42:763][690]LogDefaultInstallBundleManager: Display: Bundle Startup done waiting for all bundle sources!
+[2022.07.17-04.00.42:763][690]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Removing Request Startup
+[2022.07.17-04.00.42:763][690]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Finishing Request Lang.es-419 with Result OK
+[2022.07.17-04.00.42:763][690]LogDefaultInstallBundleManager: Display: Bundle Lang.es-419 done waiting for all bundle sources!
+[2022.07.17-04.00.42:763][690]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Removing Request Lang.es-419
+[2022.07.17-04.00.42:763][690]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Finishing Request Frontend with Result OK
+[2022.07.17-04.00.42:763][690]LogDefaultInstallBundleManager: Display: Bundle Frontend done waiting for all bundle sources!
+[2022.07.17-04.00.42:763][690]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Removing Request Frontend
+[2022.07.17-04.00.42:763][690]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Finishing Request Lang.es-ES with Result OK
+[2022.07.17-04.00.42:763][690]LogDefaultInstallBundleManager: Display: Bundle Lang.es-ES done waiting for all bundle sources!
+[2022.07.17-04.00.42:763][690]LogFortInstallBundleManager: Display: InstallBundleSourceBPS: Removing Request Lang.es-ES
+[2022.07.17-04.00.42:763][691]LogDefaultInstallBundleManager: Display: Mounting Paks for Request KairosCapture
+[2022.07.17-04.00.42:763][691]LogDefaultInstallBundleManager: Display: No PSO cache to wait on for KairosCapture
+[2022.07.17-04.00.42:763][691]LogDefaultInstallBundleManager: Display: Finishing Request KairosCapture with Result OK
+[2022.07.17-04.00.42:763][691]LogFortniteEarlyStartupPatcher: Display: BundleInstallComplete -- Name:KairosCapture | bBundleCompletedSuccessfully:1
+[2022.07.17-04.00.42:763][691]LogFortniteEarlyStartupPatcher: Display: Pending Further Bundle Install Completes -- NumCompletedBundles:1 | NumRequiredBundles:13
+[2022.07.17-04.00.42:763][691]LogDefaultInstallBundleManager: Display: ------------------------------------------------------
+[2022.07.17-04.00.42:763][691]LogDefaultInstallBundleManager: Display: Bundle Request Stats - KairosCapture
+[2022.07.17-04.00.42:763][691]LogDefaultInstallBundleManager: Display: Total Time 0.000993
+[2022.07.17-04.00.42:763][691]LogDefaultInstallBundleManager: Display: 	State ReservingCache: Time - 0.000040
+[2022.07.17-04.00.42:763][691]LogDefaultInstallBundleManager: Display: 	State ReservingCache: Size - 0
+[2022.07.17-04.00.42:764][691]LogDefaultInstallBundleManager: Display: 	State UpdatingBundleSources: Time - 0.000615
+[2022.07.17-04.00.42:764][691]LogDefaultInstallBundleManager: Display: 	State UpdatingBundleSources: Size - 0
+[2022.07.17-04.00.42:764][691]LogDefaultInstallBundleManager: Display: 	State InstallBundleSourceBPS:CompletingRequest: Time - 0.000277
+[2022.07.17-04.00.42:764][691]LogDefaultInstallBundleManager: Display: 	State InstallBundleSourceBPS:CompletingRequest: Size - 0
+[2022.07.17-04.00.42:764][691]LogDefaultInstallBundleManager: Display: 	State Mounting: Time - 0.000020
+[2022.07.17-04.00.42:764][691]LogDefaultInstallBundleManager: Display: 	State Mounting: Size - 0
+[2022.07.17-04.00.42:764][691]LogDefaultInstallBundleManager: Display: 	State WaitingForShaderCache: Time - 0.000004
+[2022.07.17-04.00.42:764][691]LogDefaultInstallBundleManager: Display: 	State WaitingForShaderCache: Size - 0
+[2022.07.17-04.00.42:764][691]LogDefaultInstallBundleManager: Display: 	State Finishing: Time - 0.000026
+[2022.07.17-04.00.42:764][691]LogDefaultInstallBundleManager: Display: 	State Finishing: Size - 0
+[2022.07.17-04.00.42:764][691]LogDefaultInstallBundleManager: Display: End Bundle Request Stats - KairosCapture
+[2022.07.17-04.00.42:764][691]LogDefaultInstallBundleManager: Display: ------------------------------------------------------
+[2022.07.17-04.00.42:764][691]LogDefaultInstallBundleManager: Display: Removing Request KairosCapture
+[2022.07.17-04.00.42:764][691]LogDefaultInstallBundleManager: Display: Mounting Paks for Request FortniteBR
+[2022.07.17-04.00.42:765][691]LogPakFile: Display: Deferring mount of pak "../../../FortniteGame/Content/Paks/pakchunk1010-WindowsClient.pak" until encryption key 'F44BDB2A36AC4B617C7F6421713C656E' becomes available
+[2022.07.17-04.00.42:767][691]LogPakFile: Display: Deferring mount of pak "../../../FortniteGame/Content/Paks/pakchunk1009-WindowsClient.pak" until encryption key 'E2A2B587160A4C443BF5455EDEC37D7E' becomes available
+[2022.07.17-04.00.42:769][691]LogPakFile: Display: Deferring mount of pak "../../../FortniteGame/Content/Paks/pakchunk1008-WindowsClient.pak" until encryption key 'C0AD693BD109852AFC71C988E5C3589A' becomes available
+[2022.07.17-04.00.42:770][691]LogPakFile: Display: Deferring mount of pak "../../../FortniteGame/Content/Paks/pakchunk1007-WindowsClient.pak" until encryption key 'BC3890EAABBF03778EE82AD7DD4F9C12' becomes available
+[2022.07.17-04.00.42:772][691]LogPakFile: Display: Deferring mount of pak "../../../FortniteGame/Content/Paks/pakchunk1006-WindowsClient.pak" until encryption key 'B76B4F80113A2C0EBD320FC79DE5F441' becomes available
+[2022.07.17-04.00.42:773][691]LogPakFile: Display: Deferring mount of pak "../../../FortniteGame/Content/Paks/pakchunk1005-WindowsClient.pak" until encryption key '88E5DC354F07186FFE1EA93D874832A6' becomes available
+[2022.07.17-04.00.42:775][691]LogPakFile: Display: Deferring mount of pak "../../../FortniteGame/Content/Paks/pakchunk1004-WindowsClient.pak" until encryption key '7EE5B905919FC30BA533A9B72266C37D' becomes available
+[2022.07.17-04.00.42:776][691]LogPakFile: Display: Deferring mount of pak "../../../FortniteGame/Content/Paks/pakchunk1003-WindowsClient.pak" until encryption key '6AD4E900C2E9E785B0442E0A60E74C66' becomes available
+[2022.07.17-04.00.42:778][691]LogPakFile: Display: Deferring mount of pak "../../../FortniteGame/Content/Paks/pakchunk1002-WindowsClient.pak" until encryption key '6686344942A2886FC4FD4D3763A4890D' becomes available
+[2022.07.17-04.00.42:779][691]LogPakFile: Display: Deferring mount of pak "../../../FortniteGame/Content/Paks/pakchunk1001-WindowsClient.pak" until encryption key '25A2BE0115631B392E3C3217C645540B' becomes available
+[2022.07.17-04.00.42:780][691]LogPakFile: Display: Deferring mount of pak "../../../FortniteGame/Content/Paks/pakchunk1000-WindowsClient.pak" until encryption key '1B8A454D42FF2E63D828ABF3B4A303C1' becomes available
+[2022.07.17-04.00.42:782][691]LogPakFile: PakFile PrimaryIndexSize=11616
+[2022.07.17-04.00.42:782][691]LogPakFile: PakFile PathHashIndexSize=2272
+[2022.07.17-04.00.42:782][691]LogPakFile: PakFile FullDirectoryIndexSize=2192
+[2022.07.17-04.00.42:782][691]LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk10-WindowsClient.utoc
+[2022.07.17-04.00.42:913][691]LogIoDispatcher: Display: Toc signature hash: 7AB304AED57C3549ECF19C1785A4BE561A252E06
+[2022.07.17-04.00.42:960][691]LogIoDispatcher: Display: Mounting container '../../../FortniteGame/Content/Paks/pakchunk10-WindowsClient.utoc' in location slot 0
+[2022.07.17-04.00.42:960][691]LogPakFile: Display: Mounted IoStore container "../../../FortniteGame/Content/Paks/pakchunk10-WindowsClient.utoc"
+[2022.07.17-04.00.42:960][691]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '../../../FortniteGame/Content/Paks/pakchunk10-WindowsClient.pak' (chunk index 10, root '../../../FortniteGame/') mounted
+[2022.07.17-04.00.42:961][691]LogPakFile: OnPakFileMounted2Time == 0.000467
+[2022.07.17-04.00.42:983][691]LogShaderLibrary: Display: Using IoDispatcher for shader code library FortniteGame_Chunk10. Total 542808 unique shaders.
+[2022.07.17-04.00.42:984][691]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library FortniteGame_Chunk10
+[2022.07.17-04.00.42:984][691]LogShaderLibrary: Display: Logical shader library 'FortniteGame' has been created, components 1
+[2022.07.17-04.00.42:984][691]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2022.07.17-04.00.42:984][691]LogFortInstallBundleManager: Display: Loaded ShaderLib for Request FortniteBR, opening PSOCache
+[2022.07.17-04.00.42:984][691]LogDefaultInstallBundleManager: Display: No PSO cache to wait on for FortniteBR
+[2022.07.17-04.00.42:984][691]LogDefaultInstallBundleManager: Display: Finishing Request FortniteBR with Result OK
+[2022.07.17-04.00.42:984][691]LogFortniteEarlyStartupPatcher: Display: BundleInstallComplete -- Name:FortniteBR | bBundleCompletedSuccessfully:1
+[2022.07.17-04.00.42:984][691]LogFortniteEarlyStartupPatcher: Display: Pending Further Bundle Install Completes -- NumCompletedBundles:2 | NumRequiredBundles:13
+[2022.07.17-04.00.42:984][691]LogDefaultInstallBundleManager: Display: ------------------------------------------------------
+[2022.07.17-04.00.42:984][691]LogDefaultInstallBundleManager: Display: Bundle Request Stats - FortniteBR
+[2022.07.17-04.00.42:984][691]LogDefaultInstallBundleManager: Display: Total Time 0.221769
+[2022.07.17-04.00.42:984][691]LogDefaultInstallBundleManager: Display: 	State ReservingCache: Time - 0.000000
+[2022.07.17-04.00.42:984][691]LogDefaultInstallBundleManager: Display: 	State ReservingCache: Size - 0
+[2022.07.17-04.00.42:984][691]LogDefaultInstallBundleManager: Display: 	State UpdatingBundleSources: Time - 0.000402
+[2022.07.17-04.00.42:984][691]LogDefaultInstallBundleManager: Display: 	State UpdatingBundleSources: Size - 0
+[2022.07.17-04.00.42:984][691]LogDefaultInstallBundleManager: Display: 	State InstallBundleSourceBPS:CompletingRequest: Time - 0.000128
+[2022.07.17-04.00.42:984][691]LogDefaultInstallBundleManager: Display: 	State InstallBundleSourceBPS:CompletingRequest: Size - 0
+[2022.07.17-04.00.42:984][691]LogDefaultInstallBundleManager: Display: 	State Mounting: Time - 0.220590
+[2022.07.17-04.00.42:984][691]LogDefaultInstallBundleManager: Display: 	State Mounting: Size - 0
+[2022.07.17-04.00.42:984][691]LogDefaultInstallBundleManager: Display: 	State WaitingForShaderCache: Time - 0.000014
+[2022.07.17-04.00.42:984][691]LogDefaultInstallBundleManager: Display: 	State WaitingForShaderCache: Size - 0
+[2022.07.17-04.00.42:984][691]LogDefaultInstallBundleManager: Display: 	State Finishing: Time - 0.000024
+[2022.07.17-04.00.42:984][691]LogDefaultInstallBundleManager: Display: 	State Finishing: Size - 0
+[2022.07.17-04.00.42:984][691]LogDefaultInstallBundleManager: Display: End Bundle Request Stats - FortniteBR
+[2022.07.17-04.00.42:984][691]LogDefaultInstallBundleManager: Display: ------------------------------------------------------
+[2022.07.17-04.00.42:984][691]LogDefaultInstallBundleManager: Display: Removing Request FortniteBR
+[2022.07.17-04.00.42:984][691]LogDefaultInstallBundleManager: Display: Mounting Paks for Request Lang.zh-CN
+[2022.07.17-04.00.42:986][691]LogPakFile: PakFile PrimaryIndexSize=176
+[2022.07.17-04.00.42:986][691]LogPakFile: PakFile PathHashIndexSize=176
+[2022.07.17-04.00.42:986][691]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.07.17-04.00.42:986][691]LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk9-WindowsClient.utoc
+[2022.07.17-04.00.42:987][691]LogIoDispatcher: Display: Toc signature hash: FDB787A24639C4B9B5CDD25FD45344F2EF8FF541
+[2022.07.17-04.00.42:989][691]LogIoDispatcher: Display: Mounting container '../../../FortniteGame/Content/Paks/pakchunk9-WindowsClient.utoc' in location slot 0
+[2022.07.17-04.00.42:989][691]LogPakFile: Display: Mounted IoStore container "../../../FortniteGame/Content/Paks/pakchunk9-WindowsClient.utoc"
+[2022.07.17-04.00.42:989][691]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '../../../FortniteGame/Content/Paks/pakchunk9-WindowsClient.pak' (chunk index 9, root '../../../FortniteGame/Content/Localization/') mounted
+[2022.07.17-04.00.42:989][691]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2022.07.17-04.00.42:989][691]LogFortInstallBundleManager: Display: Loaded ShaderLib for Request Lang.zh-CN, opening PSOCache
+[2022.07.17-04.00.42:989][691]LogDefaultInstallBundleManager: Display: No PSO cache to wait on for Lang.zh-CN
+[2022.07.17-04.00.42:989][691]LogDefaultInstallBundleManager: Display: Finishing Request Lang.zh-CN with Result OK
+[2022.07.17-04.00.42:989][691]LogFortniteEarlyStartupPatcher: Display: BundleInstallComplete -- Name:Lang.zh-CN | bBundleCompletedSuccessfully:1
+[2022.07.17-04.00.42:989][691]LogFortniteEarlyStartupPatcher: Display: Pending Further Bundle Install Completes -- NumCompletedBundles:3 | NumRequiredBundles:13
+[2022.07.17-04.00.42:989][691]LogDefaultInstallBundleManager: Display: ------------------------------------------------------
+[2022.07.17-04.00.42:989][691]LogDefaultInstallBundleManager: Display: Bundle Request Stats - Lang.zh-CN
+[2022.07.17-04.00.42:989][691]LogDefaultInstallBundleManager: Display: Total Time 0.226925
+[2022.07.17-04.00.42:989][691]LogDefaultInstallBundleManager: Display: 	State ReservingCache: Time - 0.000000
+[2022.07.17-04.00.42:989][691]LogDefaultInstallBundleManager: Display: 	State ReservingCache: Size - 0
+[2022.07.17-04.00.42:989][691]LogDefaultInstallBundleManager: Display: 	State UpdatingBundleSources: Time - 0.000426
+[2022.07.17-04.00.42:989][691]LogDefaultInstallBundleManager: Display: 	State UpdatingBundleSources: Size - 0
+[2022.07.17-04.00.42:989][691]LogDefaultInstallBundleManager: Display: 	State InstallBundleSourceBPS:CompletingRequest: Time - 0.000136
+[2022.07.17-04.00.42:989][691]LogDefaultInstallBundleManager: Display: 	State InstallBundleSourceBPS:CompletingRequest: Size - 0
+[2022.07.17-04.00.42:989][691]LogDefaultInstallBundleManager: Display: 	State Mounting: Time - 0.005156
+[2022.07.17-04.00.42:989][691]LogDefaultInstallBundleManager: Display: 	State Mounting: Size - 0
+[2022.07.17-04.00.42:989][691]LogDefaultInstallBundleManager: Display: 	State WaitingForShaderCache: Time - 0.000005
+[2022.07.17-04.00.42:989][691]LogDefaultInstallBundleManager: Display: 	State WaitingForShaderCache: Size - 0
+[2022.07.17-04.00.42:989][691]LogDefaultInstallBundleManager: Display: 	State Finishing: Time - 0.000016
+[2022.07.17-04.00.42:989][691]LogDefaultInstallBundleManager: Display: 	State Finishing: Size - 0
+[2022.07.17-04.00.42:989][691]LogDefaultInstallBundleManager: Display: End Bundle Request Stats - Lang.zh-CN
+[2022.07.17-04.00.42:989][691]LogDefaultInstallBundleManager: Display: ------------------------------------------------------
+[2022.07.17-04.00.42:989][691]LogDefaultInstallBundleManager: Display: Removing Request Lang.zh-CN
+[2022.07.17-04.00.42:989][691]LogDefaultInstallBundleManager: Display: Mounting Paks for Request Lang.ru
+[2022.07.17-04.00.42:991][691]LogPakFile: PakFile PrimaryIndexSize=176
+[2022.07.17-04.00.42:991][691]LogPakFile: PakFile PathHashIndexSize=176
+[2022.07.17-04.00.42:991][691]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.07.17-04.00.42:991][691]LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk8-WindowsClient.utoc
+[2022.07.17-04.00.43:001][691]LogIoDispatcher: Display: Toc signature hash: 2E53F6B41AED44A6B7DA8364F8C6BAF43C326488
+[2022.07.17-04.00.43:023][691]LogIoDispatcher: Display: Mounting container '../../../FortniteGame/Content/Paks/pakchunk8-WindowsClient.utoc' in location slot 0
+[2022.07.17-04.00.43:023][691]LogPakFile: Display: Mounted IoStore container "../../../FortniteGame/Content/Paks/pakchunk8-WindowsClient.utoc"
+[2022.07.17-04.00.43:023][691]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '../../../FortniteGame/Content/Paks/pakchunk8-WindowsClient.pak' (chunk index 8, root '../../../FortniteGame/Content/Localization/') mounted
+[2022.07.17-04.00.43:023][691]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2022.07.17-04.00.43:023][691]LogFortInstallBundleManager: Display: Loaded ShaderLib for Request Lang.ru, opening PSOCache
+[2022.07.17-04.00.43:024][691]LogDefaultInstallBundleManager: Display: No PSO cache to wait on for Lang.ru
+[2022.07.17-04.00.43:024][691]LogDefaultInstallBundleManager: Display: Finishing Request Lang.ru with Result OK
+[2022.07.17-04.00.43:024][691]LogFortniteEarlyStartupPatcher: Display: BundleInstallComplete -- Name:Lang.ru | bBundleCompletedSuccessfully:1
+[2022.07.17-04.00.43:024][691]LogFortniteEarlyStartupPatcher: Display: Pending Further Bundle Install Completes -- NumCompletedBundles:4 | NumRequiredBundles:13
+[2022.07.17-04.00.43:024][691]LogDefaultInstallBundleManager: Display: ------------------------------------------------------
+[2022.07.17-04.00.43:024][691]LogDefaultInstallBundleManager: Display: Bundle Request Stats - Lang.ru
+[2022.07.17-04.00.43:024][691]LogDefaultInstallBundleManager: Display: Total Time 0.261073
+[2022.07.17-04.00.43:024][691]LogDefaultInstallBundleManager: Display: 	State ReservingCache: Time - 0.000000
+[2022.07.17-04.00.43:024][691]LogDefaultInstallBundleManager: Display: 	State ReservingCache: Size - 0
+[2022.07.17-04.00.43:024][691]LogDefaultInstallBundleManager: Display: 	State UpdatingBundleSources: Time - 0.000455
+[2022.07.17-04.00.43:024][691]LogDefaultInstallBundleManager: Display: 	State UpdatingBundleSources: Size - 0
+[2022.07.17-04.00.43:024][691]LogDefaultInstallBundleManager: Display: 	State InstallBundleSourceBPS:CompletingRequest: Time - 0.000145
+[2022.07.17-04.00.43:024][691]LogDefaultInstallBundleManager: Display: 	State InstallBundleSourceBPS:CompletingRequest: Size - 0
+[2022.07.17-04.00.43:024][691]LogDefaultInstallBundleManager: Display: 	State Mounting: Time - 0.034044
+[2022.07.17-04.00.43:024][691]LogDefaultInstallBundleManager: Display: 	State Mounting: Size - 0
+[2022.07.17-04.00.43:024][691]LogDefaultInstallBundleManager: Display: 	State WaitingForShaderCache: Time - 0.000017
+[2022.07.17-04.00.43:024][691]LogDefaultInstallBundleManager: Display: 	State WaitingForShaderCache: Size - 0
+[2022.07.17-04.00.43:024][691]LogDefaultInstallBundleManager: Display: 	State Finishing: Time - 0.000014
+[2022.07.17-04.00.43:024][691]LogDefaultInstallBundleManager: Display: 	State Finishing: Size - 0
+[2022.07.17-04.00.43:024][691]LogDefaultInstallBundleManager: Display: End Bundle Request Stats - Lang.ru
+[2022.07.17-04.00.43:024][691]LogDefaultInstallBundleManager: Display: ------------------------------------------------------
+[2022.07.17-04.00.43:024][691]LogDefaultInstallBundleManager: Display: Removing Request Lang.ru
+[2022.07.17-04.00.43:024][691]LogDefaultInstallBundleManager: Display: Mounting Paks for Request Lang.pl
+[2022.07.17-04.00.43:025][691]LogPakFile: PakFile PrimaryIndexSize=176
+[2022.07.17-04.00.43:025][691]LogPakFile: PakFile PathHashIndexSize=176
+[2022.07.17-04.00.43:025][691]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.07.17-04.00.43:025][691]LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk7-WindowsClient.utoc
+[2022.07.17-04.00.43:035][691]LogIoDispatcher: Display: Toc signature hash: 061F1822AD43ABB19569254BE87705CFE1C6C0E2
+[2022.07.17-04.00.43:050][691]LogIoDispatcher: Display: Mounting container '../../../FortniteGame/Content/Paks/pakchunk7-WindowsClient.utoc' in location slot 0
+[2022.07.17-04.00.43:050][691]LogPakFile: Display: Mounted IoStore container "../../../FortniteGame/Content/Paks/pakchunk7-WindowsClient.utoc"
+[2022.07.17-04.00.43:050][691]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '../../../FortniteGame/Content/Paks/pakchunk7-WindowsClient.pak' (chunk index 7, root '../../../FortniteGame/Content/Localization/') mounted
+[2022.07.17-04.00.43:050][691]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2022.07.17-04.00.43:050][691]LogFortInstallBundleManager: Display: Loaded ShaderLib for Request Lang.pl, opening PSOCache
+[2022.07.17-04.00.43:050][691]LogDefaultInstallBundleManager: Display: No PSO cache to wait on for Lang.pl
+[2022.07.17-04.00.43:050][691]LogDefaultInstallBundleManager: Display: Finishing Request Lang.pl with Result OK
+[2022.07.17-04.00.43:050][691]LogFortniteEarlyStartupPatcher: Display: BundleInstallComplete -- Name:Lang.pl | bBundleCompletedSuccessfully:1
+[2022.07.17-04.00.43:050][691]LogFortniteEarlyStartupPatcher: Display: Pending Further Bundle Install Completes -- NumCompletedBundles:5 | NumRequiredBundles:13
+[2022.07.17-04.00.43:050][691]LogDefaultInstallBundleManager: Display: ------------------------------------------------------
+[2022.07.17-04.00.43:050][691]LogDefaultInstallBundleManager: Display: Bundle Request Stats - Lang.pl
+[2022.07.17-04.00.43:050][691]LogDefaultInstallBundleManager: Display: Total Time 0.287876
+[2022.07.17-04.00.43:050][691]LogDefaultInstallBundleManager: Display: 	State ReservingCache: Time - 0.000000
+[2022.07.17-04.00.43:050][691]LogDefaultInstallBundleManager: Display: 	State ReservingCache: Size - 0
+[2022.07.17-04.00.43:050][691]LogDefaultInstallBundleManager: Display: 	State UpdatingBundleSources: Time - 0.000480
+[2022.07.17-04.00.43:050][691]LogDefaultInstallBundleManager: Display: 	State UpdatingBundleSources: Size - 0
+[2022.07.17-04.00.43:050][691]LogDefaultInstallBundleManager: Display: 	State InstallBundleSourceBPS:CompletingRequest: Time - 0.000174
+[2022.07.17-04.00.43:050][691]LogDefaultInstallBundleManager: Display: 	State InstallBundleSourceBPS:CompletingRequest: Size - 0
+[2022.07.17-04.00.43:050][691]LogDefaultInstallBundleManager: Display: 	State Mounting: Time - 0.026723
+[2022.07.17-04.00.43:050][691]LogDefaultInstallBundleManager: Display: 	State Mounting: Size - 0
+[2022.07.17-04.00.43:050][691]LogDefaultInstallBundleManager: Display: 	State WaitingForShaderCache: Time - 0.000004
+[2022.07.17-04.00.43:050][691]LogDefaultInstallBundleManager: Display: 	State WaitingForShaderCache: Size - 0
+[2022.07.17-04.00.43:050][691]LogDefaultInstallBundleManager: Display: 	State Finishing: Time - 0.000015
+[2022.07.17-04.00.43:050][691]LogDefaultInstallBundleManager: Display: 	State Finishing: Size - 0
+[2022.07.17-04.00.43:050][691]LogDefaultInstallBundleManager: Display: End Bundle Request Stats - Lang.pl
+[2022.07.17-04.00.43:050][691]LogDefaultInstallBundleManager: Display: ------------------------------------------------------
+[2022.07.17-04.00.43:050][691]LogDefaultInstallBundleManager: Display: Removing Request Lang.pl
+[2022.07.17-04.00.43:050][691]LogDefaultInstallBundleManager: Display: Mounting Paks for Request Lang.it
+[2022.07.17-04.00.43:050][691]LogFortInstallBundleManager: Display: Loaded ShaderLib for Request Lang.it, opening PSOCache
+[2022.07.17-04.00.43:050][691]LogDefaultInstallBundleManager: Display: No PSO cache to wait on for Lang.it
+[2022.07.17-04.00.43:050][691]LogDefaultInstallBundleManager: Display: Finishing Request Lang.it with Result OK
+[2022.07.17-04.00.43:050][691]LogFortniteEarlyStartupPatcher: Display: BundleInstallComplete -- Name:Lang.it | bBundleCompletedSuccessfully:1
+[2022.07.17-04.00.43:050][691]LogFortniteEarlyStartupPatcher: Display: Pending Further Bundle Install Completes -- NumCompletedBundles:6 | NumRequiredBundles:13
+[2022.07.17-04.00.43:050][691]LogDefaultInstallBundleManager: Display: ------------------------------------------------------
+[2022.07.17-04.00.43:050][691]LogDefaultInstallBundleManager: Display: Bundle Request Stats - Lang.it
+[2022.07.17-04.00.43:050][691]LogDefaultInstallBundleManager: Display: Total Time 0.287982
+[2022.07.17-04.00.43:050][691]LogDefaultInstallBundleManager: Display: 	State ReservingCache: Time - 0.000000
+[2022.07.17-04.00.43:050][691]LogDefaultInstallBundleManager: Display: 	State ReservingCache: Size - 0
+[2022.07.17-04.00.43:050][691]LogDefaultInstallBundleManager: Display: 	State UpdatingBundleSources: Time - 0.000503
+[2022.07.17-04.00.43:050][691]LogDefaultInstallBundleManager: Display: 	State UpdatingBundleSources: Size - 0
+[2022.07.17-04.00.43:050][691]LogDefaultInstallBundleManager: Display: 	State InstallBundleSourceBPS:CompletingRequest: Time - 0.000186
+[2022.07.17-04.00.43:050][691]LogDefaultInstallBundleManager: Display: 	State InstallBundleSourceBPS:CompletingRequest: Size - 0
+[2022.07.17-04.00.43:050][691]LogDefaultInstallBundleManager: Display: 	State Mounting: Time - 0.000033
+[2022.07.17-04.00.43:050][691]LogDefaultInstallBundleManager: Display: 	State Mounting: Size - 0
+[2022.07.17-04.00.43:050][691]LogDefaultInstallBundleManager: Display: 	State WaitingForShaderCache: Time - 0.000003
+[2022.07.17-04.00.43:050][691]LogDefaultInstallBundleManager: Display: 	State WaitingForShaderCache: Size - 0
+[2022.07.17-04.00.43:051][691]LogDefaultInstallBundleManager: Display: 	State Finishing: Time - 0.000010
+[2022.07.17-04.00.43:051][691]LogDefaultInstallBundleManager: Display: 	State Finishing: Size - 0
+[2022.07.17-04.00.43:051][691]LogDefaultInstallBundleManager: Display: End Bundle Request Stats - Lang.it
+[2022.07.17-04.00.43:051][691]LogDefaultInstallBundleManager: Display: ------------------------------------------------------
+[2022.07.17-04.00.43:051][691]LogDefaultInstallBundleManager: Display: Removing Request Lang.it
+[2022.07.17-04.00.43:051][691]LogDefaultInstallBundleManager: Display: Mounting Paks for Request Lang.fr
+[2022.07.17-04.00.43:052][691]LogPakFile: PakFile PrimaryIndexSize=176
+[2022.07.17-04.00.43:052][691]LogPakFile: PakFile PathHashIndexSize=176
+[2022.07.17-04.00.43:052][691]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.07.17-04.00.43:052][691]LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk5-WindowsClient.utoc
+[2022.07.17-04.00.43:060][691]LogIoDispatcher: Display: Toc signature hash: 1B0D7C1F127EFFF85CB88B9832E4B1D62290D1D3
+[2022.07.17-04.00.43:075][691]LogIoDispatcher: Display: Mounting container '../../../FortniteGame/Content/Paks/pakchunk5-WindowsClient.utoc' in location slot 0
+[2022.07.17-04.00.43:075][691]LogPakFile: Display: Mounted IoStore container "../../../FortniteGame/Content/Paks/pakchunk5-WindowsClient.utoc"
+[2022.07.17-04.00.43:075][691]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '../../../FortniteGame/Content/Paks/pakchunk5-WindowsClient.pak' (chunk index 5, root '../../../FortniteGame/Content/Localization/') mounted
+[2022.07.17-04.00.43:075][691]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2022.07.17-04.00.43:075][691]LogFortInstallBundleManager: Display: Loaded ShaderLib for Request Lang.fr, opening PSOCache
+[2022.07.17-04.00.43:075][691]LogDefaultInstallBundleManager: Display: No PSO cache to wait on for Lang.fr
+[2022.07.17-04.00.43:075][691]LogDefaultInstallBundleManager: Display: Finishing Request Lang.fr with Result OK
+[2022.07.17-04.00.43:075][691]LogFortniteEarlyStartupPatcher: Display: BundleInstallComplete -- Name:Lang.fr | bBundleCompletedSuccessfully:1
+[2022.07.17-04.00.43:075][691]LogFortniteEarlyStartupPatcher: Display: Pending Further Bundle Install Completes -- NumCompletedBundles:7 | NumRequiredBundles:13
+[2022.07.17-04.00.43:075][691]LogDefaultInstallBundleManager: Display: ------------------------------------------------------
+[2022.07.17-04.00.43:075][691]LogDefaultInstallBundleManager: Display: Bundle Request Stats - Lang.fr
+[2022.07.17-04.00.43:075][691]LogDefaultInstallBundleManager: Display: Total Time 0.312317
+[2022.07.17-04.00.43:075][691]LogDefaultInstallBundleManager: Display: 	State ReservingCache: Time - 0.000000
+[2022.07.17-04.00.43:075][691]LogDefaultInstallBundleManager: Display: 	State ReservingCache: Size - 0
+[2022.07.17-04.00.43:075][691]LogDefaultInstallBundleManager: Display: 	State UpdatingBundleSources: Time - 0.000526
+[2022.07.17-04.00.43:075][691]LogDefaultInstallBundleManager: Display: 	State UpdatingBundleSources: Size - 0
+[2022.07.17-04.00.43:075][691]LogDefaultInstallBundleManager: Display: 	State InstallBundleSourceBPS:CompletingRequest: Time - 0.000194
+[2022.07.17-04.00.43:075][691]LogDefaultInstallBundleManager: Display: 	State InstallBundleSourceBPS:CompletingRequest: Size - 0
+[2022.07.17-04.00.43:075][691]LogDefaultInstallBundleManager: Display: 	State Mounting: Time - 0.024244
+[2022.07.17-04.00.43:075][691]LogDefaultInstallBundleManager: Display: 	State Mounting: Size - 0
+[2022.07.17-04.00.43:075][691]LogDefaultInstallBundleManager: Display: 	State WaitingForShaderCache: Time - 0.000004
+[2022.07.17-04.00.43:075][691]LogDefaultInstallBundleManager: Display: 	State WaitingForShaderCache: Size - 0
+[2022.07.17-04.00.43:075][691]LogDefaultInstallBundleManager: Display: 	State Finishing: Time - 0.000014
+[2022.07.17-04.00.43:075][691]LogDefaultInstallBundleManager: Display: 	State Finishing: Size - 0
+[2022.07.17-04.00.43:075][691]LogDefaultInstallBundleManager: Display: End Bundle Request Stats - Lang.fr
+[2022.07.17-04.00.43:075][691]LogDefaultInstallBundleManager: Display: ------------------------------------------------------
+[2022.07.17-04.00.43:075][691]LogDefaultInstallBundleManager: Display: Removing Request Lang.fr
+[2022.07.17-04.00.43:075][691]LogDefaultInstallBundleManager: Display: Mounting Paks for Request Lang.de
+[2022.07.17-04.00.43:077][691]LogPakFile: PakFile PrimaryIndexSize=176
+[2022.07.17-04.00.43:077][691]LogPakFile: PakFile PathHashIndexSize=176
+[2022.07.17-04.00.43:077][691]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.07.17-04.00.43:077][691]LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk2-WindowsClient.utoc
+[2022.07.17-04.00.43:085][691]LogIoDispatcher: Display: Toc signature hash: 4CF1140404EF7D4449A797633FADEB71E16D0A6D
+[2022.07.17-04.00.43:101][691]LogIoDispatcher: Display: Mounting container '../../../FortniteGame/Content/Paks/pakchunk2-WindowsClient.utoc' in location slot 0
+[2022.07.17-04.00.43:101][691]LogPakFile: Display: Mounted IoStore container "../../../FortniteGame/Content/Paks/pakchunk2-WindowsClient.utoc"
+[2022.07.17-04.00.43:101][691]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '../../../FortniteGame/Content/Paks/pakchunk2-WindowsClient.pak' (chunk index 2, root '../../../FortniteGame/Content/Localization/') mounted
+[2022.07.17-04.00.43:101][691]LogPakFile: OnPakFileMounted2Time == 0.000099
+[2022.07.17-04.00.43:101][691]LogFortInstallBundleManager: Display: Loaded ShaderLib for Request Lang.de, opening PSOCache
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: No PSO cache to wait on for Lang.de
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: Finishing Request Lang.de with Result OK
+[2022.07.17-04.00.43:101][691]LogFortniteEarlyStartupPatcher: Display: BundleInstallComplete -- Name:Lang.de | bBundleCompletedSuccessfully:1
+[2022.07.17-04.00.43:101][691]LogFortniteEarlyStartupPatcher: Display: Pending Further Bundle Install Completes -- NumCompletedBundles:8 | NumRequiredBundles:13
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: ------------------------------------------------------
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: Bundle Request Stats - Lang.de
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: Total Time 0.338408
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: 	State ReservingCache: Time - 0.000000
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: 	State ReservingCache: Size - 0
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: 	State UpdatingBundleSources: Time - 0.000556
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: 	State UpdatingBundleSources: Size - 0
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: 	State InstallBundleSourceBPS:CompletingRequest: Time - 0.000202
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: 	State InstallBundleSourceBPS:CompletingRequest: Size - 0
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: 	State Mounting: Time - 0.025988
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: 	State Mounting: Size - 0
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: 	State WaitingForShaderCache: Time - 0.000004
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: 	State WaitingForShaderCache: Size - 0
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: 	State Finishing: Time - 0.000019
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: 	State Finishing: Size - 0
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: End Bundle Request Stats - Lang.de
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: ------------------------------------------------------
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: Removing Request Lang.de
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: Mounting Paks for Request Lang.all
+[2022.07.17-04.00.43:101][691]LogFortInstallBundleManager: Display: Loaded ShaderLib for Request Lang.all, opening PSOCache
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: No PSO cache to wait on for Lang.all
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: Finishing Request Lang.all with Result OK
+[2022.07.17-04.00.43:101][691]LogFortniteEarlyStartupPatcher: Display: BundleInstallComplete -- Name:Lang.all | bBundleCompletedSuccessfully:1
+[2022.07.17-04.00.43:101][691]LogFortniteEarlyStartupPatcher: Display: Pending Further Bundle Install Completes -- NumCompletedBundles:9 | NumRequiredBundles:13
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: ------------------------------------------------------
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: Bundle Request Stats - Lang.all
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: Total Time 0.338543
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: 	State ReservingCache: Time - 0.000000
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: 	State ReservingCache: Size - 0
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: 	State UpdatingBundleSources: Time - 0.000582
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: 	State UpdatingBundleSources: Size - 0
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: 	State InstallBundleSourceBPS:CompletingRequest: Time - 0.000212
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: 	State InstallBundleSourceBPS:CompletingRequest: Size - 0
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: 	State Mounting: Time - 0.000047
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: 	State Mounting: Size - 0
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: 	State WaitingForShaderCache: Time - 0.000003
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: 	State WaitingForShaderCache: Size - 0
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: 	State Finishing: Time - 0.000013
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: 	State Finishing: Size - 0
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: End Bundle Request Stats - Lang.all
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: ------------------------------------------------------
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: Removing Request Lang.all
+[2022.07.17-04.00.43:101][691]LogDefaultInstallBundleManager: Display: Mounting Paks for Request Startup
+[2022.07.17-04.00.43:106][691]LogPakFile: PakFile PrimaryIndexSize=79120
+[2022.07.17-04.00.43:106][691]LogPakFile: PakFile PathHashIndexSize=211184
+[2022.07.17-04.00.43:106][691]LogPakFile: PakFile FullDirectoryIndexSize=171872
+[2022.07.17-04.00.43:107][691]LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk0-WindowsClient.utoc
+[2022.07.17-04.00.43:110][691]LogIoDispatcher: Display: Toc signature hash: FB0EBA84E7C8E75FE826A43144B88B8CE3874CA1
+[2022.07.17-04.00.43:111][691]LogIoDispatcher: Display: Mounting container '../../../FortniteGame/Content/Paks/pakchunk0-WindowsClient.utoc' in location slot 0
+[2022.07.17-04.00.43:111][691]LogPakFile: Display: Mounted IoStore container "../../../FortniteGame/Content/Paks/pakchunk0-WindowsClient.utoc"
+[2022.07.17-04.00.43:111][691]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '../../../FortniteGame/Content/Paks/pakchunk0-WindowsClient.pak' (chunk index 0, root '../../../') mounted
+[2022.07.17-04.00.43:112][691]LogShaderLibrary: Display: Using IoDispatcher for shader code library FortniteGame_Chunk0. Total 9388 unique shaders.
+[2022.07.17-04.00.43:112][691]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library FortniteGame_Chunk0
+[2022.07.17-04.00.43:112][691]LogPakFile: OnPakFileMounted2Time == 0.001096
+[2022.07.17-04.00.43:112][691]LogFortInstallBundleManager: Display: Loaded ShaderLib for Request Startup, opening PSOCache
+[2022.07.17-04.00.43:112][691]LogRHI: Base name for record PSOs is C:/Users/srink/AppData/Local/FortniteGame/Saved/CollectedPSOs/++Fortnite+Release-21.20-CL-21035704-FortniteGame_PCD3D_SM5_283A7726400E153B8054B7AF27CEA831.rec.upipelinecache
+[2022.07.17-04.00.43:112][691]LogRHI: FPipelineCacheFile Header Game Version: 1110
+[2022.07.17-04.00.43:112][691]LogRHI: FPipelineCacheFile Header Engine Data Version: 23
+[2022.07.17-04.00.43:112][691]LogRHI: FPipelineCacheFile Header TOC Offset: 28244501
+[2022.07.17-04.00.43:112][691]LogRHI: FPipelineCacheFile File Size: 36322618 Bytes
+[2022.07.17-04.00.43:151][691]LogRHI: Opened FPipelineCacheFile: ../../../FortniteGame/Content/PipelineCaches/Windows/FortniteGame_PCD3D_SM5.stable.upipelinecache (GUID: A5BC57CB46E73934F3FE999955B28458) with 64134 entries.
+[2022.07.17-04.00.43:151][691]LogRHI: FPipelineCacheFile: GarbageCollectUserCache() Begin
+[2022.07.17-04.00.43:152][691]LogRHI: Next GC on user cache is in 0.923 days.
+[2022.07.17-04.00.43:152][691]LogRHI: FPipelineCacheFile: GarbageCollectUserCache() End
+[2022.07.17-04.00.43:152][691]LogRHI: FPipelineCacheFile Header Game Version: 1110
+[2022.07.17-04.00.43:152][691]LogRHI: FPipelineCacheFile Header Engine Data Version: 23
+[2022.07.17-04.00.43:152][691]LogRHI: FPipelineCacheFile Header TOC Offset: 1485108
+[2022.07.17-04.00.43:152][691]LogRHI: FPipelineCacheFile File Size: 9982807 Bytes
+[2022.07.17-04.00.43:175][691]LogRHI: Opened FPipelineCacheFile: C:/Users/srink/AppData/Local/FortniteGame/Saved/FortniteGame_PCD3D_SM5.upipelinecache (GUID: FD5ABBA9438E1586150E00A54497BAEE) with 67411 entries.
+[2022.07.17-04.00.43:211][691]LogRHI: Display: Opened pipeline cache - precompile deferred on UsageMask.
+[2022.07.17-04.00.43:211][691]LogFortInstallBundleManager: Display: Begin PSOCache - Fast
+[2022.07.17-04.00.43:211][691]LogDefaultInstallBundleManager: Display: No PSO cache to wait on for Startup
+[2022.07.17-04.00.43:211][691]LogDefaultInstallBundleManager: Display: Finishing Request Startup with Result OK
+[2022.07.17-04.00.43:211][691]LogFortniteEarlyStartupPatcher: Display: BundleInstallComplete -- Name:Startup | bBundleCompletedSuccessfully:1
+[2022.07.17-04.00.43:211][691]LogFortniteEarlyStartupPatcher: Display: Pending Further Bundle Install Completes -- NumCompletedBundles:10 | NumRequiredBundles:13
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: ------------------------------------------------------
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: Bundle Request Stats - Startup
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: Total Time 0.449100
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: 	State ReservingCache: Time - 0.000000
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: 	State ReservingCache: Size - 0
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: 	State UpdatingBundleSources: Time - 0.000626
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: 	State UpdatingBundleSources: Size - 0
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: 	State InstallBundleSourceBPS:CompletingRequest: Time - 0.000221
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: 	State InstallBundleSourceBPS:CompletingRequest: Size - 0
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: 	State Mounting: Time - 0.110463
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: 	State Mounting: Size - 0
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: 	State WaitingForShaderCache: Time - 0.000004
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: 	State WaitingForShaderCache: Size - 0
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: 	State Finishing: Time - 0.000019
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: 	State Finishing: Size - 0
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: End Bundle Request Stats - Startup
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: ------------------------------------------------------
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: Removing Request Startup
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: Mounting Paks for Request Lang.es-419
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: No PSO cache to wait on for Lang.es-419
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: Finishing Request Lang.es-419 with Result OK
+[2022.07.17-04.00.43:212][691]LogFortniteEarlyStartupPatcher: Display: BundleInstallComplete -- Name:Lang.es-419 | bBundleCompletedSuccessfully:1
+[2022.07.17-04.00.43:212][691]LogFortniteEarlyStartupPatcher: Display: Pending Further Bundle Install Completes -- NumCompletedBundles:11 | NumRequiredBundles:13
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: ------------------------------------------------------
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: Bundle Request Stats - Lang.es-419
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: Total Time 0.449166
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: 	State ReservingCache: Time - 0.000000
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: 	State ReservingCache: Size - 0
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: 	State UpdatingBundleSources: Time - 0.000651
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: 	State UpdatingBundleSources: Size - 0
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: 	State InstallBundleSourceBPS:CompletingRequest: Time - 0.000231
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: 	State InstallBundleSourceBPS:CompletingRequest: Size - 0
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: 	State Mounting: Time - 0.000021
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: 	State Mounting: Size - 0
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: 	State WaitingForShaderCache: Time - 0.000003
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: 	State WaitingForShaderCache: Size - 0
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: 	State Finishing: Time - 0.000010
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: 	State Finishing: Size - 0
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: End Bundle Request Stats - Lang.es-419
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: ------------------------------------------------------
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: Removing Request Lang.es-419
+[2022.07.17-04.00.43:212][691]LogDefaultInstallBundleManager: Display: Mounting Paks for Request FrontEnd
+[2022.07.17-04.00.43:214][691]LogPakFile: PakFile PrimaryIndexSize=1360
+[2022.07.17-04.00.43:214][691]LogPakFile: PakFile PathHashIndexSize=1376
+[2022.07.17-04.00.43:214][691]LogPakFile: PakFile FullDirectoryIndexSize=1168
+[2022.07.17-04.00.43:214][691]LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk20-WindowsClient.utoc
+[2022.07.17-04.00.43:227][691]LogIoDispatcher: Display: Toc signature hash: 5ADCEC745DAA34AD742C732466F0622C3617F0F3
+[2022.07.17-04.00.43:231][691]LogIoDispatcher: Display: Mounting container '../../../FortniteGame/Content/Paks/pakchunk20-WindowsClient.utoc' in location slot 0
+[2022.07.17-04.00.43:231][691]LogPakFile: Display: Mounted IoStore container "../../../FortniteGame/Content/Paks/pakchunk20-WindowsClient.utoc"
+[2022.07.17-04.00.43:231][691]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '../../../FortniteGame/Content/Paks/pakchunk20-WindowsClient.pak' (chunk index 20, root '../../../FortniteGame/Content/Localization/') mounted
+[2022.07.17-04.00.43:234][691]LogShaderLibrary: Display: Using IoDispatcher for shader code library FortniteGame_Chunk20. Total 51568 unique shaders.
+[2022.07.17-04.00.43:234][691]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library FortniteGame_Chunk20
+[2022.07.17-04.00.43:235][691]LogPakFile: OnPakFileMounted2Time == 0.003570
+[2022.07.17-04.00.43:235][691]LogDefaultInstallBundleManager: Display: No PSO cache to wait on for FrontEnd
+[2022.07.17-04.00.43:235][691]LogDefaultInstallBundleManager: Display: Finishing Request Frontend with Result OK
+[2022.07.17-04.00.43:235][691]LogFortniteEarlyStartupPatcher: Display: BundleInstallComplete -- Name:Frontend | bBundleCompletedSuccessfully:1
+[2022.07.17-04.00.43:235][691]LogFortniteEarlyStartupPatcher: Display: Pending Further Bundle Install Completes -- NumCompletedBundles:12 | NumRequiredBundles:13
+[2022.07.17-04.00.43:235][691]LogDefaultInstallBundleManager: Display: ------------------------------------------------------
+[2022.07.17-04.00.43:235][691]LogDefaultInstallBundleManager: Display: Bundle Request Stats - Frontend
+[2022.07.17-04.00.43:235][691]LogDefaultInstallBundleManager: Display: Total Time 0.472364
+[2022.07.17-04.00.43:235][691]LogDefaultInstallBundleManager: Display: 	State ReservingCache: Time - 0.000000
+[2022.07.17-04.00.43:235][691]LogDefaultInstallBundleManager: Display: 	State ReservingCache: Size - 0
+[2022.07.17-04.00.43:235][691]LogDefaultInstallBundleManager: Display: 	State UpdatingBundleSources: Time - 0.000678
+[2022.07.17-04.00.43:235][691]LogDefaultInstallBundleManager: Display: 	State UpdatingBundleSources: Size - 0
+[2022.07.17-04.00.43:235][691]LogDefaultInstallBundleManager: Display: 	State InstallBundleSourceBPS:CompletingRequest: Time - 0.000243
+[2022.07.17-04.00.43:235][691]LogDefaultInstallBundleManager: Display: 	State InstallBundleSourceBPS:CompletingRequest: Size - 0
+[2022.07.17-04.00.43:235][691]LogDefaultInstallBundleManager: Display: 	State Mounting: Time - 0.023090
+[2022.07.17-04.00.43:235][691]LogDefaultInstallBundleManager: Display: 	State Mounting: Size - 0
+[2022.07.17-04.00.43:235][691]LogDefaultInstallBundleManager: Display: 	State WaitingForShaderCache: Time - 0.000007
+[2022.07.17-04.00.43:235][691]LogDefaultInstallBundleManager: Display: 	State WaitingForShaderCache: Size - 0
+[2022.07.17-04.00.43:235][691]LogDefaultInstallBundleManager: Display: 	State Finishing: Time - 0.000017
+[2022.07.17-04.00.43:235][691]LogDefaultInstallBundleManager: Display: 	State Finishing: Size - 0
+[2022.07.17-04.00.43:235][691]LogDefaultInstallBundleManager: Display: End Bundle Request Stats - Frontend
+[2022.07.17-04.00.43:235][691]LogDefaultInstallBundleManager: Display: ------------------------------------------------------
+[2022.07.17-04.00.43:235][691]LogDefaultInstallBundleManager: Display: Removing Request Frontend
+[2022.07.17-04.00.43:235][691]LogDefaultInstallBundleManager: Display: Mounting Paks for Request Lang.es-ES
+[2022.07.17-04.00.43:235][691]LogDefaultInstallBundleManager: Display: No PSO cache to wait on for Lang.es-ES
+[2022.07.17-04.00.43:235][691]LogDefaultInstallBundleManager: Display: Finishing Request Lang.es-ES with Result OK
+[2022.07.17-04.00.43:235][691]LogFortniteEarlyStartupPatcher: Display: BundleInstallComplete -- Name:Lang.es-ES | bBundleCompletedSuccessfully:1
+[2022.07.17-04.00.43:235][691]LogFortniteEarlyStartupPatcher: Display: All Bundles Installs Complete! -- NumCompletedBundles:13 | NumRequiredBundles:13
+[2022.07.17-04.00.43:249][691]LogDefaultInstallBundleManager: Display: ------------------------------------------------------
+[2022.07.17-04.00.43:249][691]LogDefaultInstallBundleManager: Display: Bundle Request Stats - Lang.es-ES
+[2022.07.17-04.00.43:249][691]LogDefaultInstallBundleManager: Display: Total Time 0.486965
+[2022.07.17-04.00.43:249][691]LogDefaultInstallBundleManager: Display: 	State ReservingCache: Time - 0.000000
+[2022.07.17-04.00.43:249][691]LogDefaultInstallBundleManager: Display: 	State ReservingCache: Size - 0
+[2022.07.17-04.00.43:249][691]LogDefaultInstallBundleManager: Display: 	State UpdatingBundleSources: Time - 0.000705
+[2022.07.17-04.00.43:249][691]LogDefaultInstallBundleManager: Display: 	State UpdatingBundleSources: Size - 0
+[2022.07.17-04.00.43:249][691]LogDefaultInstallBundleManager: Display: 	State InstallBundleSourceBPS:CompletingRequest: Time - 0.000253
+[2022.07.17-04.00.43:249][691]LogDefaultInstallBundleManager: Display: 	State InstallBundleSourceBPS:CompletingRequest: Size - 0
+[2022.07.17-04.00.43:249][691]LogDefaultInstallBundleManager: Display: 	State Mounting: Time - 0.000006
+[2022.07.17-04.00.43:249][691]LogDefaultInstallBundleManager: Display: 	State Mounting: Size - 0
+[2022.07.17-04.00.43:249][691]LogDefaultInstallBundleManager: Display: 	State WaitingForShaderCache: Time - 0.000003
+[2022.07.17-04.00.43:249][691]LogDefaultInstallBundleManager: Display: 	State WaitingForShaderCache: Size - 0
+[2022.07.17-04.00.43:249][691]LogDefaultInstallBundleManager: Display: 	State Finishing: Time - 0.014543
+[2022.07.17-04.00.43:249][691]LogDefaultInstallBundleManager: Display: 	State Finishing: Size - 0
+[2022.07.17-04.00.43:249][691]LogDefaultInstallBundleManager: Display: End Bundle Request Stats - Lang.es-ES
+[2022.07.17-04.00.43:249][691]LogDefaultInstallBundleManager: Display: ------------------------------------------------------
+[2022.07.17-04.00.43:249][691]LogDefaultInstallBundleManager: Display: Removing Request Lang.es-ES
+[2022.07.17-04.00.43:250][692]LogFortniteEarlyStartupPatcher: Display: OnStop called for FFortniteEarlyPreLoadScreen
+[2022.07.17-04.00.43:250][692]LogInit: Using OS detected language (en-US).
+[2022.07.17-04.00.43:250][692]LogInit: Using OS detected locale (en-AU).
+[2022.07.17-04.00.43:250][692]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.07.17-04.00.43:615][692]LogTextLocalizationResource: LocRes '../../../FortniteGame/Content/Localization/Fortnite_locchunk9/en/Fortnite_locchunk9.locres' could not be opened for reading!
+[2022.07.17-04.00.43:615][692]LogTextLocalizationResource: LocRes '../../../FortniteGame/Content/Localization/Fortnite_locchunk8/en/Fortnite_locchunk8.locres' could not be opened for reading!
+[2022.07.17-04.00.43:615][692]LogTextLocalizationResource: LocRes '../../../FortniteGame/Content/Localization/Fortnite_locchunk7/en/Fortnite_locchunk7.locres' could not be opened for reading!
+[2022.07.17-04.00.43:615][692]LogTextLocalizationResource: LocRes '../../../FortniteGame/Content/Localization/Fortnite_locchunk5/en/Fortnite_locchunk5.locres' could not be opened for reading!
+[2022.07.17-04.00.43:615][692]LogTextLocalizationResource: LocRes '../../../FortniteGame/Content/Localization/Fortnite_locchunk2/en/Fortnite_locchunk2.locres' could not be opened for reading!
+[2022.07.17-04.00.43:615][692]LogTextLocalizationResource: LocRes '../../../FortniteGame/Content/Localization/RegionCN_locchunk9/en/RegionCN_locchunk9.locres' could not be opened for reading!
+[2022.07.17-04.00.43:615][692]LogTextLocalizationResource: LocRes '../../../FortniteGame/Content/Localization/RegionCN_locchunk8/en/RegionCN_locchunk8.locres' could not be opened for reading!
+[2022.07.17-04.00.43:615][692]LogTextLocalizationResource: LocRes '../../../FortniteGame/Content/Localization/RegionCN_locchunk7/en/RegionCN_locchunk7.locres' could not be opened for reading!
+[2022.07.17-04.00.43:615][692]LogTextLocalizationResource: LocRes '../../../FortniteGame/Content/Localization/RegionCN_locchunk5/en/RegionCN_locchunk5.locres' could not be opened for reading!
+[2022.07.17-04.00.43:615][692]LogTextLocalizationResource: LocRes '../../../FortniteGame/Content/Localization/RegionCN_locchunk2/en/RegionCN_locchunk2.locres' could not be opened for reading!
+[2022.07.17-04.00.43:615][692]LogTextLocalizationResource: LocRes '../../../FortniteGame/Content/Localization/RegionCN_locchunk20/en/RegionCN_locchunk20.locres' could not be opened for reading!
+[2022.07.17-04.00.43:615][692]LogAssetRegistry: Premade AssetRegistry loaded from '../../../FortniteGame/AssetRegistry.bin'
+[2022.07.17-04.00.43:615][692]LogAssetRegistry: FAssetRegistry took 0.3629 seconds to start up
+[2022.07.17-04.00.43:959][692]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.07.17-04.00.44:005][692]LogSerialization: Display: AllowBulkDataInIoStore: 'true'
+[2022.07.17-04.00.44:006][692]LogInit: Selected Device Profile: [WindowsClient]
+[2022.07.17-04.00.44:006][692]LogDeviceProfileManager: Active device profile: [00000200293F4CF0][000002005784DB80 50] WindowsClient
+[2022.07.17-04.00.44:006][692]LogDeviceProfileManager: Profiles: [00000200293F4B10][0000020035720040 50] Windows, [00000200293F4CF0][000002005784DB80 50] WindowsClient, 
+[2022.07.17-04.00.44:006][692]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsClient"
+[2022.07.17-04.00.44:064][692]LogNetVersion: FortniteGame 1.0.0, NetCL: 20788829, EngineNetVer: 22, GameNetVer: 0 (Checksum: 4257557307)
+[2022.07.17-04.00.44:076][692]LogPackageLocalizationCache: Processed 81 localized package path(s) for 1 prioritized culture(s) in 0.000111 seconds
+[2022.07.17-04.00.44:285][692]LogStats: UGameplayTagsManager::InitializeManager -  0.209 s
+[2022.07.17-04.00.44:318][692]LogInit: Selected Device Profile: [WindowsClient]
+[2022.07.17-04.00.44:327][692]LogContentPackageResolver: No compatibility override specified!
+[2022.07.17-04.00.44:338][692]FortClientBot: iSelectedTile: -1   iSelectedTheater: 0
+[2022.07.17-04.00.44:340][692]LogContentBeaconV2: AContentBeaconHostObjectV2::SetServerIsReadyForClientsToJoin Setting server is ready for clients to join to false, this will prevent clients from being set to ReadyToJoin until set to true again
+[2022.07.17-04.00.44:349][692]LogCsvProfiler: Display: Metadata set : scalabilitylevel="LowOrAbove"
+[2022.07.17-04.00.44:349][692]LogCsvProfiler: Display: Metadata set : gpu="NVIDIA GeForce RTX 3070 Ti"
+[2022.07.17-04.00.44:349][692]LogConsoleResponse: User settings scalability group: LowOrAbove
+[2022.07.17-04.00.44:349][692]LogCsvProfiler: Display: Metadata set : desktophwinfo="[CPU] AMD Ryzen 7 5800X 8-Core Processor              [GPU] NVIDIA GeForce RTX 3070 Ti [Memory] 32GB [OS] Windows 10 (Release 2009) "
+[2022.07.17-04.00.44:349][692]LogCsvProfiler: Display: Metadata set : rhiname="D3D12"
+[2022.07.17-04.00.44:349][692]LogCsvProfiler: Display: Metadata set : raytracing="Disabled"
+[2022.07.17-04.00.44:349][692]LogCsvProfiler: Display: Metadata set : rhisupportsraytracingpsoadditions="True"
+[2022.07.17-04.00.44:349][692]LogConsoleResponse: User settings details:
+- Resolution: 0x0@120.0Hz at 100.0% 3D Resolution
+- Fullscreen mode: WindowedFullscreen, VSync: 0
+- Motion blur: 0, RHIT: 1
+[2022.07.17-04.00.44:354][692]LogMatchmakingUtility: [MatchmakingV2_Temp_PreloadingAthenaForJoinInProgress] changed from INVALID to Idle
+[2022.07.17-04.00.44:354][692]LogMatchmakingUtility: [MatchmakingV2_Temp_JoinInProgressState] changed from INVALID to Idle
+[2022.07.17-04.00.44:354][692]LogMatchmakingUtility: [MatchmakingV2State] changed from INVALID to Idle
+[2022.07.17-04.00.44:373][692]LogCsvProfiler: Display: Metadata set : foundationstreamindistance="27500.0"
+[2022.07.17-04.00.44:374][692]LogCsvProfiler: Display: Metadata set : foundationstreamoutdistance="32500.0"
+[2022.07.17-04.00.44:377][692]LogFortStreamedMedia: UFortStreamMediaSource::UFortStreamMediaSource(000002004B74C4F0, 000002004B74C518)
+[2022.07.17-04.00.44:392][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.17-04.00.44:398][692]LogFortRespawnAndSpectateSelect: URespawnAndSpectatePlayerComponent::SetRespawningState(), switching player: [NULL]'s respawning state from: [0] to: [0]
+[2022.07.17-04.00.44:426][692]LogFortStreamedMedia: UFortStreamMediaSource::UFortStreamMediaSource(00000200497052C0, 00000200497052E8)
+[2022.07.17-04.00.44:430][692]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2022.07.17-04.00.44:432][692]LogStreaming: Warning: LoadPackage: SkipPackage: /Game/UI/CodeReferenced/SolidWhite (0x472557F02E6D6798) - The package to load does not exist on disk or in the loader
+[2022.07.17-04.00.44:432][692]LogUObjectGlobals: Warning: Failed to find object 'Texture2D /Game/UI/CodeReferenced/SolidWhite.SolidWhite'
